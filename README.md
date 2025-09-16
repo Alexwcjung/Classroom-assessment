@@ -82,6 +82,7 @@ ________________________________________
 #### 🌳 Receptive Vocabulary Knowledge
 
 1. Descriptive Statistics
+   
 | Group   | Posttest M (SD) | Delayed M (SD) |
 |---------|-----------------|----------------|
 | CA-DA   | 7.94 (1.95)     | 7.17 (2.23)    |
@@ -96,6 +97,7 @@ ________________________________________
 #### 🌳 Productive Vocabulary Knowledg
 
 1. Descriptive Statistics
+   
 | Group   | Posttest M (SD) | Delayed M (SD) |
 |---------|-----------------|----------------|
 | CA-DA   | 6.33 (2.30)     | 4.56 (1.79)    |
@@ -124,4 +126,11 @@ ________________________________________
 •	추론통계: ANOVA 결과, 모든 차이가 p < .05에서 유의미, 효과 크기 큼 (η² 0.39~0.70)
 •	추가 진단: CA-DA 집단 학습자들의 Actual vs Mediated 점수 상승 → 학습 + 평가 동시 가능
 
+
+## Discussion
+1. CA-DA most effective → higher scores than CA-NDA & Control (both receptive & productive)
+2. Retention confirmed → effects sustained in delayed posttests
+3. Diagnostic value → prompt levels revealed learners’ ZPD & individual differences
+4. Pedagogical implication → chatbot-assisted DA supports both learning & assessment
+5. Limitations → small sample, limited to elementary learners & 10 words → need broader studies
 

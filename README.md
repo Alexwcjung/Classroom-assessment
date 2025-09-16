@@ -73,7 +73,7 @@ ________________________________________
 
 ➡ 평균 점수 차이: CA-DA > CA-NDA > Control
 
-2. Inferential Statistics
+2. Inferential Statistics (Two-way ANOVA)
    - “In the posttest and delayed posttest, the statistical results were F(2, 50) = 59.696, p < .05 , η² = 0.70 and F(2, 50) = 54.425, p < .05, η² = 0.69, respectively.”
 
 #### 🌳 Productive Vocabulary Knowledge
@@ -88,19 +88,24 @@ ________________________________________
 
 ➡ 평균 점수 차이: CA-DA > CA-NDA > Control
 
-2. Inferential Statistics
+2. Inferential Statistics (Two-way ANOVA)
    - “Regarding productive vocabulary knowledge … F(2, 50) = 21.640, p < .05, η² = 0.46 … F(2, 50) = 16.277, p < .05, η² = 0.39.”
 ➡ 두 검사 모두 CA-DA 집단이 가장 우수, 효과 크기도 큼.
 
-3. Diagnostic Insights (CA-DA group only)
- 3.1. Descriptive Statistics (Session별 점수)
-  - Session 1 → Actual M=1.11 (SD=2.14), Mediated M=15.78 (SD=5.46)
-  - Session 2 → Actual M=8.61 (SD=5.89), Mediated M=28.89 (SD=8.73)
+#### 🌱 Diagnostic Insights (CA-DA only)
+1.  Descriptive Statistics
+   - Session 1 → Actual M = 1.11 (SD = 2.14), Mediated M = 15.78 (SD = 5.46)
+   - Session 2 → Actual M = 8.61 (SD = 5.89), Mediated M = 28.89 (SD = 8.73)
 ➡ 시간이 지날수록 Actual & Mediated 점수 모두 상승
+➡ Actual = independent ability (스스로 정답)
+➡ Mediated = performance with prompts (힌트 받은 후 정답)
 
-3.2. 추론통계 
+2. Inferential Statistics (Repeated-measures ANOVA)
    - “Increases in the mean actual and mediated scores from session 1 to session 2 revealed that learners in the CA-DA group improved in terms of both independent and mediated performance.”
-➡ 학습자들이 점차 더 적은 힌트로 정답 도출 → 자기조절(self-regulation) 발달의 증거.
+
+➡ 통계적으로도 Session 1 → 2 점수 상승이 유의
+➡ 학습자들이 점차 더 적은 힌트로 정답 도출
+➡ 자기조절(self-regulation) 발달의 증거
 
 ---------------
 

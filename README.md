@@ -7,9 +7,7 @@
 
 “In order to compensate for this passive nature, glossing can be designed by drawing on Dynamic Assessment (DA), a framework that integrates assessment with instruction.”
 
-“Meanwhile, different challenges have been reported when implementing DA in the classroom setting. As Davin (2013) stated, ‘This form of DA administration in dyads is time-consuming, limiting the number of participants with whom a mediator can work’ (p. 307).”
-
-“In response to these issues, the present study introduced the concept of Chatbot-Assisted Dynamic Assessment (CA-DA) as a form of glossing in which a chatbot acted as a mediator regarding unfamiliar words when learners read a text.”
+“the present study introduced the concept of Chatbot-Assisted Dynamic Assessment (CA-DA) as a form of glossing in which a chatbot acted as a mediator regarding unfamiliar words when learners read a text.”
 
 “During CA-DA, learners engaged in more open-ended dialogues with chatbots and gained opportunities to recognize and produce unfamiliar words by receiving automated mediation while not constrained to a multiple-choice format.”
 

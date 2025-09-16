@@ -79,9 +79,9 @@ ________________________________________
    - Reliability: interrater = 98%; Cronbach’s α ≥ 0.70
 ----	
 # Results 
-## Receptive Vocabulary Knowledge
+Receptive Vocabulary Knowledge
 
-### Descriptive Statistics
+Descriptive Statistics
 | Group   | Posttest M (SD) | Delayed M (SD) |
 |---------|-----------------|----------------|
 | CA-DA   | 7.94 (1.95)     | 7.17 (2.23)    |

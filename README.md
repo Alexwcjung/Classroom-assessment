@@ -20,7 +20,7 @@ Research Questions:
 
 --------
 ## Literature Review 
-   
+
 1. Glossing for vocabulary learning
 “A gloss is a brief definition or synonym, either in L1 or L2, which is provided with the text (Nation, 2013). Glosses can work as both aids for text comprehension and tools for vocabulary learning simultaneously (Hulstijn et al., 1996; Ko, 2005).”
 

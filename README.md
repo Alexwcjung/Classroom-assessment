@@ -1,19 +1,20 @@
 ## Introduction 
-“Vocabulary knowledge is crucial for language proficiency… without sufficient vocabulary, learners cannot participate in communication successfully.”
-→ 어휘 지식은 언어 능력의 핵심. 부족하면 의사소통 불가능.
+“Given the limited amount of class time that can be used exclusively for vocabulary in EFL classroom settings such as South Korea, it is necessary to use effective methods that can increase opportunities for English exposure and vocabulary learning at the same time.”
 
-“Many EFL learners struggle with vocabulary learning, especially when relying only on glosses during reading.”
-→ 전통적 글로싱 의존은 학습자 어휘 습득에 한계.
+“Glosses are useful because they work as both aids for English comprehension and tools for vocabulary learning simultaneously when learners read a text (Hulstijn, Hollander, & Greidanus, 1996; Ko, 2005).”
 
-“Dynamic Assessment (DA), based on Vygotsky’s Zone of Proximal Development (ZPD), combines instruction and assessment by providing mediation tailored to learners’ needs.”
-→ DA는 비고츠키의 ZPD 개념에 근거, 교수와 평가를 통합하고 학습자 맞춤 지원 제공.
+“However, glosses used in previous studies were static in terms of presenting meanings and explanations for glossed words. In other words, learners passively received the given definition without any further assistance regarding identifying the meaning independently.”
 
-“With advances in technology, computer-mediated DA, especially chatbots, can provide real-time, individualized scaffolding.”
-→ 기술 발달로 컴퓨터/챗봇 기반 DA가 실시간 맞춤형 지원 가능.
+“In order to compensate for this passive nature, glossing can be designed by drawing on Dynamic Assessment (DA), a framework that integrates assessment with instruction.”
 
-“This study investigates the effects of chatbot-assisted DA on EFL learners’ vocabulary knowledge and explores its diagnostic potential.”
-→ 본 연구 목적: 챗봇 기반 DA의 어휘 학습 효과와 진단적 가치 탐구.
+“Meanwhile, different challenges have been reported when implementing DA in the classroom setting. As Davin (2013) stated, ‘This form of DA administration in dyads is time-consuming, limiting the number of participants with whom a mediator can work’ (p. 307).”
 
+“In response to these issues, the present study introduced the concept of Chatbot-Assisted Dynamic Assessment (CA-DA) as a form of glossing in which a chatbot acted as a mediator regarding unfamiliar words when learners read a text.”
+
+“During CA-DA, learners engaged in more open-ended dialogues with chatbots and gained opportunities to recognize and produce unfamiliar words by receiving automated mediation while not constrained to a multiple-choice format.”
+
+
+“This study introduced the concept of Chatbot-Assisted Dynamic Assessment (CA-DA) … learners engaged in more open-ended dialogues with chatbots …”
 ----------
 Research Questions:
 1. “Is CA-DA effective for receptive and productive vocabulary learning in L2 learners?”

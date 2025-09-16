@@ -21,18 +21,31 @@ Research Questions:
 --------
 ## Literature Review 
    
-“Glossing refers to providing definitions of unknown words in reading passages… it can facilitate reading comprehension and incidental vocabulary learning, but simple glosses may lead to shallow processing.”
-→ 글로싱은 단어 이해와 어휘 학습을 돕지만, 피상적 처리 한계가 있음.
+1. Glossing for vocabulary learning
+“A gloss is a brief definition or synonym, either in L1 or L2, which is provided with the text (Nation, 2013). Glosses can work as both aids for text comprehension and tools for vocabulary learning simultaneously (Hulstijn et al., 1996; Ko, 2005).”
 
-“Dynamic Assessment (DA) integrates assessment and instruction through mediation, revealing learners’ Zone of Proximal Development (ZPD). Unlike static tests, DA examines not only what learners know but also how much support they need.”
-→ DA는 교수+평가를 결합하여 학습자의 ZPD를 드러냄. 기존 정적 평가는 못 보는 ‘지원 필요 수준’을 알 수 있음.
+“However, learners do not pay attention to text-only glossing and see the glosses simply as aids to comprehension rather than as sources for vocabulary learning (Bowles, 2004; Yanguas, 2009).”
 
-“Computer-mediated DA can deliver individualized scaffolding at scale. Learners can receive graduated prompts ranging from implicit hints to explicit feedback.”
-→ 컴퓨터 기반 DA는 점진적 힌트 제공으로 개별 맞춤형 교수 가능.
+2. Dynamic assessment for vocabulary learning
+“DA … is a move away from static assessments … it provides diagnostic information about learner abilities, and at the same time, promotes learner development as a mediated process of transition from other-regulation toward self-regulation (Lantolf & Thorne, 2006).”
 
-“Chatbots, as conversational agents, are promising mediators because they can provide immediate, interactive, and adaptive support during reading.”
-→ 챗봇은 즉각적이고 상호작용적이며 적응적인 중재 가능성 제시.
-Method 
+“DA utilizes graduated mediation … beginning as implicit prompts and becoming increasingly explicit if required (Aljaafreh & Lantolf, 1994).”
+
+ “DA has been used as an effective means for vocabulary learning … dynamic glossing utilizes graduated mediation to help learners identify meanings of unfamiliar words.”
+
+“However … computerized DA often relied on multiple-choice formats, which is not desirable because it limits learners to only a few options.”
+
+3. Artificial intelligence for dynamic assessment
+“With the assistance of an AI agent … scholars have attempted to take advantage of AI technology when implementing assessment (Ai, 2017; Heift, 2017).”
+
+“AI agents hold potential … they provide individual, graduated, and automated mediation to which a learner is able to respond through open-ended interaction.”
+
+“However, it may seem infeasible for teachers to use AI technology in the classroom because they would need programming knowledge …”
+
+“To address this concern, AI chatbots … such as Google’s Dialogflow … can be used with ease by teachers … considered a ubiquitous technology free from time and space.”
+
+“Despite these advantages, research employing AI chatbots for DA … does not exist. To fill this gap … the present study explores the effect of chatbots used for DA on vocabulary learning and demonstrates effective ways of using chatbots for vocabulary diagnosis.”
+
 ________________________________________
 
 ## Method

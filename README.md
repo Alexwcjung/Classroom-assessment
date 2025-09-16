@@ -92,7 +92,7 @@ ________________________________________
 ➡️ 평균 점수 차이: CA-DA > CA-NDA > Control
 
 2. Inferential Statistics
-“In the posttest and delayed posttest, the statistical results were F(2, 50) = 59.696, p < .05, η² = 0.70 and F(2, 50) = 54.425, p < .05, η² = 0.69, respectively.”
+- “In the posttest and delayed posttest, the statistical results were F(2, 50) = 59.696, p < .05, η² = 0.70 and F(2, 50) = 54.425, p < .05, η² = 0.69, respectively.”
 
 #### 🌳 Productive Vocabulary Knowledg
 
@@ -107,7 +107,7 @@ ________________________________________
 ➡️ 평균 점수 차이: CA-DA > CA-NDA > Control
 
 2. Inferential Statistics
-“Regarding productive vocabulary knowledge … F(2, 50) = 21.640, p < .05, η² = 0.46 … F(2, 50) = 16.277, p < .05, η² = 0.39.”
+- “Regarding productive vocabulary knowledge … F(2, 50) = 21.640, p < .05, η² = 0.46 … F(2, 50) = 16.277, p < .05, η² = 0.39.”
 ➡️ 두 검사 모두 CA-DA 집단이 가장 우수, 효과 크기도 큼.
 
 3. Diagnostic Insights (CA-DA group only)

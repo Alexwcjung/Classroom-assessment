@@ -78,10 +78,10 @@ ________________________________________
       - Receptive & Productive: 1 point per item (max 10 each)
    - Reliability: interrater = 98%; Cronbach’s α ≥ 0.70
 ----	
-## Results 
-# Receptive Vocabulary Knowledge
+# Results 
+## Receptive Vocabulary Knowledge
 
-# Descriptive Statistics
+### Descriptive Statistics
 | Group   | Posttest M (SD) | Delayed M (SD) |
 |---------|-----------------|----------------|
 | CA-DA   | 7.94 (1.95)     | 7.17 (2.23)    |
@@ -90,13 +90,12 @@ ________________________________________
 
 ➡️ 평균 점수 차이: CA-DA > CA-NDA > Control
 
-# Inferential Statistics
+### Inferential Statistics
 •	“In the posttest and delayed posttest, the statistical results were F(2, 50) = 59.696, p < .05, η² = 0.70 and F(2, 50) = 54.425, p < .05, η² = 0.69, respectively.”
-
 
 ## Productive Vocabulary Knowledg
 
-# Descriptive Statistics (Table 3)
+### Descriptive Statistics (Table 3)
 | Group   | Posttest M (SD) | Delayed M (SD) |
 |---------|-----------------|----------------|
 | CA-DA   | 6.33 (2.30)     | 4.56 (1.79)    |
@@ -105,7 +104,7 @@ ________________________________________
 
 ➡️ 평균 점수 차이: CA-DA > CA-NDA > Control
 
-# Inferential Statistics
+### Inferential Statistics
 •	“Regarding productive vocabulary knowledge … F(2, 50) = 21.640, p < .05, η² = 0.46 … F(2, 50) = 16.277, p < .05, η² = 0.39.”
 ➡️ 두 검사 모두 CA-DA 집단이 가장 우수, 효과 크기도 큼.
 ________________________________________

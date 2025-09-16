@@ -13,8 +13,6 @@
 
 “During CA-DA, learners engaged in more open-ended dialogues with chatbots and gained opportunities to recognize and produce unfamiliar words by receiving automated mediation while not constrained to a multiple-choice format.”
 
-
-“This study introduced the concept of Chatbot-Assisted Dynamic Assessment (CA-DA) … learners engaged in more open-ended dialogues with chatbots …”
 ----------
 Research Questions:
 1. “Is CA-DA effective for receptive and productive vocabulary learning in L2 learners?”

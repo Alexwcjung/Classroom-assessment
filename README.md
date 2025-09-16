@@ -1,4 +1,3 @@
-# Classroom-assessment
 ## Introduction 
 “Vocabulary knowledge is crucial for language proficiency… without sufficient vocabulary, learners cannot participate in communication successfully.”
 → 어휘 지식은 언어 능력의 핵심. 부족하면 의사소통 불가능.

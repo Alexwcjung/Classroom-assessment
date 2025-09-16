@@ -36,8 +36,8 @@ Research Questions:
 → 챗봇은 즉각적이고 상호작용적이며 적응적인 중재 가능성 제시.
 Method 
 ________________________________________
-📊 Method
-________________________________________
+
+## Method
 1. Participants
 •	N = 53 (6th grade Korean EFL learners, age 12)
 •	Selected from 81 learners (vocabulary size 1,200–1,500 words)
@@ -46,12 +46,12 @@ o	CA-DA (n=18) → chatbot + graduated prompts
 o	CA-NDA (n=18) → chatbot + simple definitions
 o	Control (n=17) → no chatbot
 •	Proficiency: ACTFL Novice; no overseas experience
-________________________________________
+
 2. Target Vocabulary & Materials
 •	10 words: blizzard, demon, jar, jewelry, kernel, moisture, pot, refrigerator, sand, torch
 •	Source: The Popcorn Book (de Paola, 1978), simplified passages (~200–220 words)
 •	Target words underlined for focus
-________________________________________
+
 3. Procedure
 •	Pretest → two treatment sessions → Immediate Posttest → Delayed Posttest (2 weeks)
 •	Treatment sessions:
@@ -61,7 +61,7 @@ o	Task: read passages & infer meaning of underlined words
 o	CA-DA: dynamic chatbot scaffolding (graduated hints)
 o	CA-NDA: chatbot provides only definitions
 o	Control: reading only
-________________________________________
+
 4. Chatbot Design
 •	Platform: Google Dialogflow (tablet-based)
 •	Mode: text-based interaction (Korean & English)

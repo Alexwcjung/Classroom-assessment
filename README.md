@@ -107,7 +107,7 @@ ________________________________________
 ➡️ 평균 점수 차이: CA-DA > CA-NDA > Control
 
 2. Inferential Statistics
-- “Regarding productive vocabulary knowledge … F(2, 50) = 21.640, p < .05, η² = 0.46 … F(2, 50) = 16.277, p < .05, η² = 0.39.”
+   - “Regarding productive vocabulary knowledge … F(2, 50) = 21.640, p < .05, η² = 0.46 … F(2, 50) = 16.277, p < .05, η² = 0.39.”
 ➡️ 두 검사 모두 CA-DA 집단이 가장 우수, 효과 크기도 큼.
 
 3. Diagnostic Insights (CA-DA group only)
@@ -117,7 +117,7 @@ ________________________________________
 ➡️ 시간이 지날수록 Actual & Mediated 점수 모두 상승
 
 3.2. 추론통계 
-“Increases in the mean actual and mediated scores from session 1 to session 2 revealed that learners in the CA-DA group improved in terms of both independent and mediated performance.”
+   - “Increases in the mean actual and mediated scores from session 1 to session 2 revealed that learners in the CA-DA group improved in terms of both independent and mediated performance.”
 ➡️ 학습자들이 점차 더 적은 힌트로 정답 도출 → 자기조절(self-regulation) 발달의 증거.
 
 ------------

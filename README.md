@@ -83,26 +83,26 @@ ________________________________________
 
 1. Descriptive Statistics
    
-| Group   | Posttest M (SD) | Delayed M (SD) |
-|---------|-----------------|----------------|
-| CA-DA   | 7.94 (1.95)     | 7.17 (2.23)    |
-| CA-NDA  | 5.89 (1.78)     | 5.06 (1.43)    |
-| Control | 1.88 (1.11)     | 1.41 (1.00)    |
+   | Group   | Posttest M (SD) | Delayed M (SD) |
+   |---------|-----------------|----------------|
+   | CA-DA   | 7.94 (1.95)     | 7.17 (2.23)    |
+   | CA-NDA  | 5.89 (1.78)     | 5.06 (1.43)    |
+   | Control | 1.88 (1.11)     | 1.41 (1.00)    |
 
 ➡️ 평균 점수 차이: CA-DA > CA-NDA > Control
 
 2. Inferential Statistics
-- “In the posttest and delayed posttest, the statistical results were F(2, 50) = 59.696, p < .05, η² = 0.70 and F(2, 50) = 54.425, p < .05, η² = 0.69, respectively.”
+   - “In the posttest and delayed posttest, the statistical results were F(2, 50) = 59.696, p < .05, η² = 0.70 and F(2, 50) = 54.425, p < .05, η² = 0.69, respectively.”
 
 #### 🌳 Productive Vocabulary Knowledg
 
 1. Descriptive Statistics
    
-| Group   | Posttest M (SD) | Delayed M (SD) |
-|---------|-----------------|----------------|
-| CA-DA   | 6.33 (2.30)     | 4.56 (1.79)    |
-| CA-NDA  | 4.28 (1.96)     | 3.17 (1.86)    |
-| Control | 2.06 (1.34)     | 1.41 (1.12)    |
+   | Group   | Posttest M (SD) | Delayed M (SD) |
+   |---------|-----------------|----------------|
+   | CA-DA   | 6.33 (2.30)     | 4.56 (1.79)    |
+   | CA-NDA  | 4.28 (1.96)     | 3.17 (1.86)    |
+   | Control | 2.06 (1.34)     | 1.41 (1.12)    |
 
 ➡️ 평균 점수 차이: CA-DA > CA-NDA > Control
 

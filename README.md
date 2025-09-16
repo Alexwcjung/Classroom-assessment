@@ -79,7 +79,7 @@ ________________________________________
    - Reliability: interrater = 98%; Cronbach’s α ≥ 0.70
 ----	
 # Results 
-Receptive Vocabulary Knowledge
+🌳 Receptive Vocabulary Knowledge
 
 Descriptive Statistics
 | Group   | Posttest M (SD) | Delayed M (SD) |
@@ -93,7 +93,7 @@ Descriptive Statistics
 ### Inferential Statistics
 •	“In the posttest and delayed posttest, the statistical results were F(2, 50) = 59.696, p < .05, η² = 0.70 and F(2, 50) = 54.425, p < .05, η² = 0.69, respectively.”
 
-## Productive Vocabulary Knowledg
+🌳 Productive Vocabulary Knowledg
 
 ### Descriptive Statistics (Table 3)
 | Group   | Posttest M (SD) | Delayed M (SD) |
@@ -107,7 +107,7 @@ Descriptive Statistics
 ### Inferential Statistics
 •	“Regarding productive vocabulary knowledge … F(2, 50) = 21.640, p < .05, η² = 0.46 … F(2, 50) = 16.277, p < .05, η² = 0.39.”
 ➡️ 두 검사 모두 CA-DA 집단이 가장 우수, 효과 크기도 큼.
-________________________________________
+
 3. Diagnostic Insights (CA-DA group only)
 기술통계 (Session별 점수)
 •	Session 1 → Actual M=1.11 (SD=2.14), Mediated M=15.78 (SD=5.46)
@@ -116,11 +116,10 @@ ________________________________________
 추론통계 (본문 문장 발췌)
 •	“Increases in the mean actual and mediated scores from session 1 to session 2 revealed that learners in the CA-DA group improved in terms of both independent and mediated performance.”
 ➡️ 학습자들이 점차 더 적은 힌트로 정답 도출 → 자기조절(self-regulation) 발달의 증거.
-________________________________________
+
 ✅ 최종 요약
 •	기술통계: M, SD로 집단별 성취 수준 확인 → CA-DA > CA-NDA > Control
 •	추론통계: ANOVA 결과, 모든 차이가 p < .05에서 유의미, 효과 크기 큼 (η² 0.39~0.70)
 •	추가 진단: CA-DA 집단 학습자들의 Actual vs Mediated 점수 상승 → 학습 + 평가 동시 가능
-________________________________________
-👉 원하시면 제가 이 정리본을 **발표용 슬라이드 표 (Descriptive + Inferential 나란히 배치)**로 만들어드릴까요?
+
 

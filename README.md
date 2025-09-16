@@ -48,37 +48,37 @@ ________________________________________
      3. Control (n=17): no chatbot support
 
 2. Target Vocabulary & Materials
-- 10 words: blizzard, demon, jar, jewelry, kernel, moisture, pot, refrigerator, sand, torch
-- Source: The Popcorn Book (de Paola, 1978), simplified passages (~200–220 words)
-- Target words underlined for focus
+   - 10 words: blizzard, demon, jar, jewelry, kernel, moisture, pot, refrigerator, sand, torch
+   - Source: The Popcorn Book (de Paola, 1978), simplified passages (~200–220 words)
+   - Target words underlined for focus
 
 3. Procedure
-- Pretest → two treatment sessions → Immediate Posttest → Delayed Posttest (2 weeks)
-- Treatment sessions:
-   - Length: 25 min × 2 days
-   - Task: read passages & infer meaning of underlined words
+   - Pretest → two treatment sessions → Immediate Posttest → Delayed Posttest (2 weeks)
+   - Treatment sessions:
+        - Length: 25 min × 2 days
+        - Task: read passages & infer meaning of underlined words
    - Group tasks:
         - CA-DA: dynamic chatbot scaffolding (graduated hints)
         - CA-NDA: chatbot provides only definitions
         - Control: reading only
 
 4. Chatbot Design
-- Platform: Google Dialogflow (tablet-based)
-- Mode: text-based interaction (Korean & English)
-- Prompt hierarchy (CA-DA only):
-   1.	“Read the sentence again and guess.”
-   2.	Highlight context clues
-   3.	Provide guiding question
-   4.	Give new example sentence
+   - Platform: Google Dialogflow (tablet-based)
+   - Mode: text-based interaction (Korean & English)\
+   - Prompt hierarchy (CA-DA only):
+      1.	“Read the sentence again and guess.”
+      2.	Highlight context clues
+      3.	Provide guiding question
+      4.	Give new example sentence
 ________________________________________
 5. Measures
-•	Receptive test: write definition (L1 or L2) for target words
-•	Productive test: write English word for pictures (with first letter + blanks)
-•	Scoring:
-o	Receptive & Productive: 1 point per item (max 10 each)
-o	Reliability: interrater = 98%; Cronbach’s α ≥ 0.70
-o	
-📊 Results 
+   - Receptive test: write definition (L1 or L2) for target words
+   - Productive test: write English word for pictures (with first letter + blanks)
+   - Scoring:
+      - Receptive & Productive: 1 point per item (max 10 each)
+   - Reliability: interrater = 98%; Cronbach’s α ≥ 0.70
+----	
+## Results 
 1. Receptive Vocabulary Knowledge
 기술통계 (Table 2)
 Group	Posttest M (SD)	Delayed M (SD)

@@ -72,8 +72,8 @@ ________________________________________
       4.	Give new example sentence
 ________________________________________
 5. Measures
-   - Receptive test: write definition (L1 or L2) for target words
-   - Productive test: write English word for pictures (with first letter + blanks)
+   * Receptive test: write definition (L1 or L2) for target words
+   * Productive test: write English word for pictures (with first letter + blanks)
    - Scoring:
       - Receptive & Productive: 1 point per item (max 10 each)
    - Reliability: interrater = 98%; Cronbach’s α ≥ 0.70

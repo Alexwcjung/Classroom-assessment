@@ -64,7 +64,7 @@ ________________________________________
 
 4. Chatbot Design
    - Platform: Google Dialogflow (tablet-based)
-   - Mode: text-based interaction (Korean & English)\
+   - Mode: text-based interaction (Korean & English)
    - Prompt hierarchy (CA-DA only):
       1.	“Read the sentence again and guess.”
       2.	Highlight context clues
@@ -111,12 +111,12 @@ ________________________________________
 ➡️ 두 검사 모두 CA-DA 집단이 가장 우수, 효과 크기도 큼.
 
 3. Diagnostic Insights (CA-DA group only)
-기술통계 (Session별 점수)
-•	Session 1 → Actual M=1.11 (SD=2.14), Mediated M=15.78 (SD=5.46)
-•	Session 2 → Actual M=8.61 (SD=5.89), Mediated M=28.89 (SD=8.73)
+ 3.1. Descriptive Statistics (Session별 점수)
+  - Session 1 → Actual M=1.11 (SD=2.14), Mediated M=15.78 (SD=5.46)
+  - Session 2 → Actual M=8.61 (SD=5.89), Mediated M=28.89 (SD=8.73)
 ➡️ 시간이 지날수록 Actual & Mediated 점수 모두 상승
 
-추론통계 
+3.2. 추론통계 
 “Increases in the mean actual and mediated scores from session 1 to session 2 revealed that learners in the CA-DA group improved in terms of both independent and mediated performance.”
 ➡️ 학습자들이 점차 더 적은 힌트로 정답 도출 → 자기조절(self-regulation) 발달의 증거.
 

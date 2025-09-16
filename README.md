@@ -70,7 +70,7 @@ ________________________________________
       2.	Highlight context clues
       3.	Provide guiding question
       4.	Give new example sentence
-________________________________________
+
 5. Measures
    - Receptive test: write definition (L1 or L2) for target words
    - Productive test: write English word for pictures (with first letter + blanks)

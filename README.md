@@ -94,8 +94,10 @@ ________________________________________
 
 #### 🌱 Diagnostic Insights (CA-DA only)
 1.  Descriptive Statistics
-   - Session 1 → Actual M = 1.11 (SD = 2.14), Mediated M = 15.78 (SD = 5.46)
-   - Session 2 → Actual M = 8.61 (SD = 5.89), Mediated M = 28.89 (SD = 8.73)
+| Session   | Actual M (SD)   | Mediated M (SD) |
+|-----------|-----------------|-----------------|
+| Session 1 | 1.11 (2.14)     | 15.78 (5.46)    |
+| Session 2 | 8.61 (5.89)     | 28.89 (8.73)    |
      
     시간이 지날수록 Actual & Mediated 점수 모두 상승
     Actual = independent ability (스스로 정답)

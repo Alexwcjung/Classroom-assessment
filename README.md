@@ -94,6 +94,7 @@ ________________________________________
 
 #### 🌱 Diagnostic Insights (CA-DA only)
 1.  Descriptive Statistics
+   
 | Session   | Actual M (SD)   | Mediated M (SD) |
 |-----------|-----------------|-----------------|
 | Session 1 | 1.11 (2.14)     | 15.78 (5.46)    |

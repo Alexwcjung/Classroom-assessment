@@ -72,32 +72,39 @@ ________________________________________
       4.	Give new example sentence
 ________________________________________
 5. Measures
-   * Receptive test: write definition (L1 or L2) for target words
-  + Productive test: write English word for pictures (with first letter + blanks)
+   - Receptive test: write definition (L1 or L2) for target words
+   - Productive test: write English word for pictures (with first letter + blanks)
    - Scoring:
       - Receptive & Productive: 1 point per item (max 10 each)
    - Reliability: interrater = 98%; Cronbach’s α ≥ 0.70
 ----	
 ## Results 
 1. Receptive Vocabulary Knowledge
-기술통계 (Table 2)
-Group	Posttest M (SD)	Delayed M (SD)
-CA-DA	7.94 (1.95)	7.17 (2.23)
-CA-NDA	5.89 (1.78)	5.06 (1.43)
-Control	1.88 (1.11)	1.41 (1.00)
+
+- 1-1 Descriptive Statistics
+| Group   | Posttest M (SD) | Delayed M (SD) |
+|---------|-----------------|----------------|
+| CA-DA   | 7.94 (1.95)     | 7.17 (2.23)    |
+| CA-NDA  | 5.89 (1.78)     | 5.06 (1.43)    |
+| Control | 1.88 (1.11)     | 1.41 (1.00)    |
+
 ➡️ 평균 점수 차이: CA-DA > CA-NDA > Control
-추론통계 (본문 문장 발췌)
+
+- 추론통계 (본문 문장 발췌)
 •	“In the posttest and delayed posttest, the statistical results were F(2, 50) = 59.696, p < .05, η² = 0.70 and F(2, 50) = 54.425, p < .05, η² = 0.69, respectively.”
 ➡️ 집단 간 차이 유의미, 효과 크기 매우 큼 (η²≈0.70).
 
-2. Productive Vocabulary Knowledge
-기술통계 (Table 3)
-Group	Posttest M (SD)	Delayed M (SD)
-CA-DA	6.33 (2.30)	4.56 (1.79)
-CA-NDA	4.28 (1.96)	3.17 (1.86)
-Control	2.06 (1.34)	1.41 (1.12)
+3. Productive Vocabulary Knowledge
+- Descriptive Statistics (Table 3)
+| Group   | Posttest M (SD) | Delayed M (SD) |
+|---------|-----------------|----------------|
+| CA-DA   | 6.33 (2.30)     | 4.56 (1.79)    |
+| CA-NDA  | 4.28 (1.96)     | 3.17 (1.86)    |
+| Control | 2.06 (1.34)     | 1.41 (1.12)    |
+
 ➡️ 평균 점수 차이: CA-DA > CA-NDA > Control
-추론통계 (본문 문장 발췌)
+
+- Inferential Statistics
 •	“Regarding productive vocabulary knowledge … F(2, 50) = 21.640, p < .05, η² = 0.46 … F(2, 50) = 16.277, p < .05, η² = 0.39.”
 ➡️ 두 검사 모두 CA-DA 집단이 가장 우수, 효과 크기도 큼.
 ________________________________________

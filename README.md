@@ -48,19 +48,19 @@ ________________________________________
   - Proficiency: ACTFL Novice; no overseas experience
 
 2. Target Vocabulary & Materials
-•	10 words: blizzard, demon, jar, jewelry, kernel, moisture, pot, refrigerator, sand, torch
-•	Source: The Popcorn Book (de Paola, 1978), simplified passages (~200–220 words)
-•	Target words underlined for focus
+- 10 words: blizzard, demon, jar, jewelry, kernel, moisture, pot, refrigerator, sand, torch
+- Source: The Popcorn Book (de Paola, 1978), simplified passages (~200–220 words)
+- Target words underlined for focus
 
 3. Procedure
-•	Pretest → two treatment sessions → Immediate Posttest → Delayed Posttest (2 weeks)
-•	Treatment sessions:
-o	Length: 25 min × 2 days
-o	Task: read passages & infer meaning of underlined words
-•	Group tasks:
-o	CA-DA: dynamic chatbot scaffolding (graduated hints)
-o	CA-NDA: chatbot provides only definitions
-o	Control: reading only
+- Pretest → two treatment sessions → Immediate Posttest → Delayed Posttest (2 weeks)
+- Treatment sessions:
+   - Length: 25 min × 2 days
+   - Task: read passages & infer meaning of underlined words
+   - Group tasks:
+        - CA-DA: dynamic chatbot scaffolding (graduated hints)
+        - CA-NDA: chatbot provides only definitions
+        - Control: reading only
 
 4. Chatbot Design
 •	Platform: Google Dialogflow (tablet-based)

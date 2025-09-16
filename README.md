@@ -50,14 +50,10 @@ ________________________________________
 
 ## Method
 1. Participants
-   - Initial pool: 81 Korean 6th-grade EFL learners (age 12)
-   - Screening: A vocabulary size test was administered. Only learners within the 1,200–1,500 word range were selected to ensure homogeneity.
-   - Final sample: 53 learners met the criteria.
-   - Proficiency: ACTFL Novice level; none had overseas experience.
-   - Grouping:
-     1. CA-DA (n=18): chatbot + graduated prompts
-     2. CA-NDA (n=18): chatbot + simple glosses
-     3. Control (n=17): no chatbot support
+After screening 81 students, 53 learners were randomly assigned into three groups:
+ - 1) CA-DA (n=18): chatbot-assisted dynamic assessment with graduated prompts → prompts were given step by step, from implicit hints (“Read again and guess”) to explicit support (definition in a new sentence).
+ - 2) CA-NDA (n=18): chatbot-assisted non-dynamic assessment with only word definitions (simple glosses) → learners received static definitions immediately, without step-by-step scaffolding.
+ - 3) Control (n=17): no chatbot use → learners read texts without any automated support.
 
 2. Target Vocabulary & Materials
    - 10 words: blizzard, demon, jar, jewelry, kernel, moisture, pot, refrigerator, sand, torch

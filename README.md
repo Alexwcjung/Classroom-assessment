@@ -38,13 +38,14 @@ ________________________________________
 
 ## Method
 1. Participants
-- N = 53 (6th grade Korean EFL learners, age 12)
-- Selected from 81 learners (vocabulary size 1,200–1,500 words)
-- Groups:
-  - CA-DA (n=18) → chatbot + graduated prompts
-  - CA-NDA (n=18) → chatbot + simple definitions
-  - Control (n=17) → no chatbot
-  - Proficiency: ACTFL Novice; no overseas experience
+   - Initial pool: 81 Korean 6th-grade EFL learners (age 12)
+   - Screening: A vocabulary size test was administered. Only learners within the 1,200–1,500 word range were selected to ensure homogeneity.
+   - Final sample: 53 learners met the criteria.
+   - Proficiency: ACTFL Novice level; none had overseas experience.
+   - Grouping:
+     1. CA-DA (n=18): chatbot + graduated prompts
+     2. CA-NDA (n=18): chatbot + simple glosses
+     3. Control (n=17): no chatbot support
 
 2. Target Vocabulary & Materials
 - 10 words: blizzard, demon, jar, jewelry, kernel, moisture, pot, refrigerator, sand, torch

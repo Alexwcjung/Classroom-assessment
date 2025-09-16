@@ -21,12 +21,12 @@ Research Questions:
 --------
 ## Literature Review 
 
-1. Glossing for vocabulary learning
+#### 1. Glossing for vocabulary learning
 “A gloss is a brief definition or synonym, either in L1 or L2, which is provided with the text (Nation, 2013). Glosses can work as both aids for text comprehension and tools for vocabulary learning simultaneously (Hulstijn et al., 1996; Ko, 2005).”
 
 “However, learners do not pay attention to text-only glossing and see the glosses simply as aids to comprehension rather than as sources for vocabulary learning (Bowles, 2004; Yanguas, 2009).”
 
-2. Dynamic assessment for vocabulary learning
+#### 2. Dynamic assessment for vocabulary learning
 “DA … is a move away from static assessments … it provides diagnostic information about learner abilities, and at the same time, promotes learner development as a mediated process of transition from other-regulation toward self-regulation (Lantolf & Thorne, 2006).”
 
 “DA utilizes graduated mediation … beginning as implicit prompts and becoming increasingly explicit if required (Aljaafreh & Lantolf, 1994).”
@@ -35,7 +35,7 @@ Research Questions:
 
 “However … computerized DA often relied on multiple-choice formats, which is not desirable because it limits learners to only a few options.”
 
-3. Artificial intelligence for dynamic assessment
+#### 3. Artificial intelligence for dynamic assessment
 “With the assistance of an AI agent … scholars have attempted to take advantage of AI technology when implementing assessment (Ai, 2017; Heift, 2017).”
 
 “AI agents hold potential … they provide individual, graduated, and automated mediation to which a learner is able to respond through open-ended interaction.”

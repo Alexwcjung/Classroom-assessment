@@ -97,9 +97,9 @@ ________________________________________
    - Session 1 → Actual M = 1.11 (SD = 2.14), Mediated M = 15.78 (SD = 5.46)
    - Session 2 → Actual M = 8.61 (SD = 5.89), Mediated M = 28.89 (SD = 8.73)
      
- - 시간이 지날수록 Actual & Mediated 점수 모두 상승
- - Actual = independent ability (스스로 정답)
- - Mediated = performance with prompts (힌트 받은 후 정답)
+    - 시간이 지날수록 Actual & Mediated 점수 모두 상승
+    Actual = independent ability (스스로 정답)
+    Mediated = performance with prompts (힌트 받은 후 정답)
 
 2. Inferential Statistics (Repeated-measures ANOVA)
    - “Increases in the mean actual and mediated scores from session 1 to session 2 revealed that learners in the CA-DA group improved in terms of both independent and mediated performance.”

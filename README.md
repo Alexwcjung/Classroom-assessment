@@ -46,7 +46,7 @@ ________________________________________
   - CA-NDA (n=18) → chatbot + simple definitions
   - Control (n=17) → no chatbot
   - Proficiency: ACTFL Novice; no overseas experience
----
+-
 2. Target Vocabulary & Materials
 - 10 words: blizzard, demon, jar, jewelry, kernel, moisture, pot, refrigerator, sand, torch
 - Source: The Popcorn Book (de Paola, 1978), simplified passages (~200–220 words)

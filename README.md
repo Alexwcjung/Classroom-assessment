@@ -51,9 +51,12 @@ ________________________________________
 ## Method
 1. Participants
    - After screening 81 students, 53 learners were randomly assigned into three groups:
-      - CA-DA (n=18): chatbot-assisted dynamic assessment with graduated prompts → prompts were given step by step, from implicit hints (“Read again and guess”) to explicit support (definition in a new sentence).
-      - CA-NDA (n=18): chatbot-assisted non-dynamic assessment with only word definitions (simple glosses) → learners received static definitions immediately, without step-by-step scaffolding.
-      - Control (n=17): no chatbot use → learners read texts without any automated support.
+ | Group    | Description | Key Feature |
+ |----------|-------------|-------------|
+ | **CA-DA** (n=18) | Chatbot-Assisted Dynamic Assessment | **Graduated prompts**: step-by-step hints (implicit → explicit) to support meaning inference  and diagnose ZPD |
+ | **CA-NDA** (n=18) | Chatbot-Assisted Non-Dynamic Assessment | **Simple glosses only**: static definitions without scaffolding |
+ | **Control** (n=17) | No chatbot support | Learners read texts without any automated assistance |
+
 
 3. Target Vocabulary & Materials
    - 10 words: blizzard, demon, jar, jewelry, kernel, moisture, pot, refrigerator, sand, torch

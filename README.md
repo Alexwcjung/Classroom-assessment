@@ -51,11 +51,12 @@ ________________________________________
 ## Method
 1. Participants
    - After screening 81 students, 53 learners were randomly assigned into three groups:
- | Group    | Description | Key Feature |
- |----------|-------------|-------------|
- | **CA-DA** (n=18) | Chatbot-Assisted Dynamic Assessment | **Graduated prompts**: step-by-step hints (implicit → explicit) to support meaning inference  and diagnose ZPD |
- | **CA-NDA** (n=18) | Chatbot-Assisted Non-Dynamic Assessment | **Simple glosses only**: static definitions without scaffolding |
- | **Control** (n=17) | No chatbot support | Learners read texts without any automated assistance |
+     
+| Group    | Description | Key Feature |
+|----------|-------------|-------------|
+| **CA-DA** (n=18) | Chatbot-Assisted Dynamic Assessment | **Graduated prompts**: step-by-step hints (implicit → explicit) to support meaning inference and diagnose ZPD |
+| **CA-NDA** (n=18) | Chatbot-Assisted Non-Dynamic Assessment | **Simple glosses only**: static definitions without scaffolding |
+| **Control** (n=17) | No chatbot support | Learners read texts without any automated assistance |
 
 
 3. Target Vocabulary & Materials

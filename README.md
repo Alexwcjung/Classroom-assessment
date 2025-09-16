@@ -79,7 +79,7 @@ ________________________________________
    - Reliability: interrater = 98%; Cronbach’s α ≥ 0.70
 ----	
 # Results 
-## 🌳 Receptive Vocabulary Knowledge
+### 🌳 Receptive Vocabulary Knowledge
 
 Descriptive Statistics
 | Group   | Posttest M (SD) | Delayed M (SD) |

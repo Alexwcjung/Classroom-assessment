@@ -14,6 +14,7 @@
 
 “During CA-DA, learners engaged in more open-ended dialogues with chatbots and gained opportunities to recognize and produce unfamiliar words by receiving automated mediation while not constrained to a multiple-choice format.”
 
+----------
 Research Questions:
 “Is CA-DA effective for receptive and productive vocabulary learning in L2 learners?”
 “How can CA-DA be used for diagnosing L2 learners’ vocabulary knowledge?”

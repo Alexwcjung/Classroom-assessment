@@ -52,10 +52,10 @@ ________________________________________
 
 | Section      | Key Details |
 |--------------|-------------|
-| **1. Participants** | N = 53 (6th grade Korean EFL learners, age 12) <br> Selected from 81 students (Vocabulary Size Test: 1,200–1,500 words) <br> Groups: CA-DA (n=18, graduated prompts :step-by-step hints (implicit → explicit) to support meaning inference and diagnose ZPD)  / CA-NDA (n=18, static glosses: static definitions without scaffolding) / Control (n=17, no chatbot :  Learners read texts without any automated assistance) |
-| **2. Materials** | 10 target words: blizzard, demon, jar, jewelry, kernel, moisture, pot, refrigerator, sand, torch <br> Texts adapted from *The Popcorn Book* (~200–220 words, simplified) <br> Target words underlined for focus |
-| **3. Procedure** | Flow: Pretest → 2 treatment sessions (25 min × 2 days) → Immediate Posttest → Delayed Posttest (2 weeks later) <br> Tasks: infer meanings of underlined words <br> Group conditions: CA-DA (graduated prompts) / CA-NDA (definitions only) / Control (no chatbot) |
-| **4. Measures** | Receptive test: write L1/L2 definitions (10 items) <br> Productive test: write English words for pictures (with first letter) <br> Scoring: 1 point per item (max 10) <br> Reliability: Interrater = 98%; Cronbach’s α ≥ 0.70 |
+| **1.Participants** | N = 53 (6th grade Korean EFL learners, age 12) <br> Selected from 81 students (Vocabulary Size Test: 1,200–1,500 words) <br> Groups: CA-DA (n=18, graduated prompts :step-by-step hints (implicit → explicit) to support meaning inference and diagnose ZPD)  / CA-NDA (n=18, static glosses: static definitions without scaffolding) / Control (n=17, no chatbot :  Learners read texts without any automated assistance) |
+| **2.Materials** | 10 target words: blizzard, demon, jar, jewelry, kernel, moisture, pot, refrigerator, sand, torch <br> Texts adapted from *The Popcorn Book* (~200–220 words, simplified) <br> Target words underlined for focus |
+| **3.Procedure** | Flow: Pretest → 2 treatment sessions (25 min × 2 days) → Immediate Posttest → Delayed Posttest (2 weeks later) <br> Tasks: infer meanings of underlined words <br> Group conditions: CA-DA (graduated prompts) / CA-NDA (definitions only) / Control (no chatbot) |
+| **4.Measures** | Receptive test: write L1/L2 definitions (10 items) <br> Productive test: write English words for pictures (with first letter) <br> Scoring: 1 point per item (max 10) <br> Reliability: Interrater = 98%; Cronbach’s α ≥ 0.70 |
 
 
 

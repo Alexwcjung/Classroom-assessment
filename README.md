@@ -81,7 +81,7 @@ ________________________________________
 ## Results 
 1. Receptive Vocabulary Knowledge
 
-- 1-1 Descriptive Statistics
+1-1 Descriptive Statistics
 | Group   | Posttest M (SD) | Delayed M (SD) |
 |---------|-----------------|----------------|
 | CA-DA   | 7.94 (1.95)     | 7.17 (2.23)    |

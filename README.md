@@ -39,9 +39,9 @@ ________________________________________
 
 ## Method
 1. Participants
-•	N = 53 (6th grade Korean EFL learners, age 12)
-•	Selected from 81 learners (vocabulary size 1,200–1,500 words)
-•	Groups:
+- N = 53 (6th grade Korean EFL learners, age 12)
+- Selected from 81 learners (vocabulary size 1,200–1,500 words)
+- Groups:
 o	CA-DA (n=18) → chatbot + graduated prompts
 o	CA-NDA (n=18) → chatbot + simple definitions
 o	Control (n=17) → no chatbot

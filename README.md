@@ -50,6 +50,7 @@ ________________________________________
 
 ## Method
 1. Participants
+
 After screening 81 students, 53 learners were randomly assigned into three groups:
    - CA-DA (n=18): chatbot-assisted dynamic assessment with graduated prompts → prompts were given step by step, from implicit hints (“Read again and guess”) to explicit support (definition in a new sentence).
    - CA-NDA (n=18): chatbot-assisted non-dynamic assessment with only word definitions (simple glosses) → learners received static definitions immediately, without step-by-step scaffolding.

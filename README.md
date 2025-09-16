@@ -46,12 +46,12 @@ ________________________________________
   - CA-NDA (n=18) → chatbot + simple definitions
   - Control (n=17) → no chatbot
   - Proficiency: ACTFL Novice; no overseas experience
--
+
 2. Target Vocabulary & Materials
 - 10 words: blizzard, demon, jar, jewelry, kernel, moisture, pot, refrigerator, sand, torch
 - Source: The Popcorn Book (de Paola, 1978), simplified passages (~200–220 words)
 - Target words underlined for focus
----
+
 3. Procedure
 - Pretest → two treatment sessions → Immediate Posttest → Delayed Posttest (2 weeks)
 - Treatment sessions:
@@ -61,15 +61,15 @@ ________________________________________
         - CA-DA: dynamic chatbot scaffolding (graduated hints)
         - CA-NDA: chatbot provides only definitions
         - Control: reading only
----
+
 4. Chatbot Design
-•	Platform: Google Dialogflow (tablet-based)
-•	Mode: text-based interaction (Korean & English)
-•	Prompt hierarchy (CA-DA only):
-1.	“Read the sentence again and guess.”
-2.	Highlight context clues
-3.	Provide guiding question
-4.	Give new example sentence
+- Platform: Google Dialogflow (tablet-based)
+- Mode: text-based interaction (Korean & English)
+- Prompt hierarchy (CA-DA only):
+   1.	“Read the sentence again and guess.”
+   2.	Highlight context clues
+   3.	Provide guiding question
+   4.	Give new example sentence
 ________________________________________
 5. Measures
 •	Receptive test: write definition (L1 or L2) for target words

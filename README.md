@@ -50,18 +50,17 @@ ________________________________________
 
 ## Method
 1. Participants
+   - After screening 81 students, 53 learners were randomly assigned into three groups:
+      - CA-DA (n=18): chatbot-assisted dynamic assessment with graduated prompts → prompts were given step by step, from implicit hints (“Read again and guess”) to explicit support (definition in a new sentence).
+      - CA-NDA (n=18): chatbot-assisted non-dynamic assessment with only word definitions (simple glosses) → learners received static definitions immediately, without step-by-step scaffolding.
+      - Control (n=17): no chatbot use → learners read texts without any automated support.
 
-After screening 81 students, 53 learners were randomly assigned into three groups:
-   - CA-DA (n=18): chatbot-assisted dynamic assessment with graduated prompts → prompts were given step by step, from implicit hints (“Read again and guess”) to explicit support (definition in a new sentence).
-   - CA-NDA (n=18): chatbot-assisted non-dynamic assessment with only word definitions (simple glosses) → learners received static definitions immediately, without step-by-step scaffolding.
-   - Control (n=17): no chatbot use → learners read texts without any automated support.
-
-2. Target Vocabulary & Materials
+3. Target Vocabulary & Materials
    - 10 words: blizzard, demon, jar, jewelry, kernel, moisture, pot, refrigerator, sand, torch
    - Source: The Popcorn Book (de Paola, 1978), simplified passages (~200–220 words)
    - Target words underlined for focus
 
-3. Procedure
+4. Procedure
    - Pretest → two treatment sessions → Immediate Posttest → Delayed Posttest (2 weeks)
    - Treatment sessions:
         - Length: 25 min × 2 days
@@ -71,7 +70,7 @@ After screening 81 students, 53 learners were randomly assigned into three group
         - CA-NDA: chatbot provides only definitions
         - Control: reading only
 
-4. Chatbot Design
+5. Chatbot Design
    - Platform: Google Dialogflow (tablet-based)
    - Mode: text-based interaction (Korean & English)
    - Prompt hierarchy (CA-DA only):
@@ -80,7 +79,7 @@ After screening 81 students, 53 learners were randomly assigned into three group
       3.	Provide guiding question
       4.	Give new example sentence
 
-5. Measures
+6. Measures
    - Receptive test: write definition (L1 or L2) for target words
    - Productive test: write English word for pictures (with first letter + blanks)
    - Scoring:

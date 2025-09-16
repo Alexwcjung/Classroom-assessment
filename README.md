@@ -81,7 +81,7 @@ ________________________________________
 ## Results 
 #### 🌳 Receptive Vocabulary Knowledge
 
-Descriptive Statistics
+1. Descriptive Statistics
 | Group   | Posttest M (SD) | Delayed M (SD) |
 |---------|-----------------|----------------|
 | CA-DA   | 7.94 (1.95)     | 7.17 (2.23)    |
@@ -90,12 +90,12 @@ Descriptive Statistics
 
 ➡️ 평균 점수 차이: CA-DA > CA-NDA > Control
 
-Inferential Statistics
-•	“In the posttest and delayed posttest, the statistical results were F(2, 50) = 59.696, p < .05, η² = 0.70 and F(2, 50) = 54.425, p < .05, η² = 0.69, respectively.”
+2. Inferential Statistics
+“In the posttest and delayed posttest, the statistical results were F(2, 50) = 59.696, p < .05, η² = 0.70 and F(2, 50) = 54.425, p < .05, η² = 0.69, respectively.”
 
 #### 🌳 Productive Vocabulary Knowledg
 
-Descriptive Statistics
+1. Descriptive Statistics
 | Group   | Posttest M (SD) | Delayed M (SD) |
 |---------|-----------------|----------------|
 | CA-DA   | 6.33 (2.30)     | 4.56 (1.79)    |
@@ -104,8 +104,8 @@ Descriptive Statistics
 
 ➡️ 평균 점수 차이: CA-DA > CA-NDA > Control
 
-Inferential Statistics
-•	“Regarding productive vocabulary knowledge … F(2, 50) = 21.640, p < .05, η² = 0.46 … F(2, 50) = 16.277, p < .05, η² = 0.39.”
+2. Inferential Statistics
+“Regarding productive vocabulary knowledge … F(2, 50) = 21.640, p < .05, η² = 0.46 … F(2, 50) = 16.277, p < .05, η² = 0.39.”
 ➡️ 두 검사 모두 CA-DA 집단이 가장 우수, 효과 크기도 큼.
 
 3. Diagnostic Insights (CA-DA group only)
@@ -113,11 +113,13 @@ Inferential Statistics
 •	Session 1 → Actual M=1.11 (SD=2.14), Mediated M=15.78 (SD=5.46)
 •	Session 2 → Actual M=8.61 (SD=5.89), Mediated M=28.89 (SD=8.73)
 ➡️ 시간이 지날수록 Actual & Mediated 점수 모두 상승
-추론통계 (본문 문장 발췌)
-•	“Increases in the mean actual and mediated scores from session 1 to session 2 revealed that learners in the CA-DA group improved in terms of both independent and mediated performance.”
+
+추론통계 
+“Increases in the mean actual and mediated scores from session 1 to session 2 revealed that learners in the CA-DA group improved in terms of both independent and mediated performance.”
 ➡️ 학습자들이 점차 더 적은 힌트로 정답 도출 → 자기조절(self-regulation) 발달의 증거.
 
-✅ 최종 요약
+------------
+최종 요약
 •	기술통계: M, SD로 집단별 성취 수준 확인 → CA-DA > CA-NDA > Control
 •	추론통계: ANOVA 결과, 모든 차이가 p < .05에서 유의미, 효과 크기 큼 (η² 0.39~0.70)
 •	추가 진단: CA-DA 집단 학습자들의 Actual vs Mediated 점수 상승 → 학습 + 평가 동시 가능

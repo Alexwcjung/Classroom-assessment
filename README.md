@@ -49,14 +49,6 @@ Research Questions:
 ________________________________________
 
 ## Method
-1. Participants
-   - After screening 81 students, 53 learners were randomly assigned into three groups:
-     
-| Group    | Description | Key Feature |
-|----------|-------------|-------------|
-| **CA-DA** (n=18) | Chatbot-Assisted Dynamic Assessment | **Graduated prompts**: step-by-step hints (implicit → explicit) to support meaning inference and diagnose ZPD |
-| **CA-NDA** (n=18) | Chatbot-Assisted Non-Dynamic Assessment | **Simple glosses only**: static definitions without scaffolding |
-| **Control** (n=17) | No chatbot support | Learners read texts without any automated assistance |
 
 | Section      | Key Details |
 |--------------|-------------|
@@ -66,7 +58,7 @@ ________________________________________
 | **4. Measures** | Receptive test: write L1/L2 definitions (10 items) <br> Productive test: write English words for pictures (with first letter) <br> Scoring: 1 point per item (max 10) <br> Reliability: Interrater = 98%; Cronbach’s α ≥ 0.70 |
 
 
-Reliability: interrater agreement = 98%; Cronbach’s α ≥ 0.70
+
 ----	
 ## Results 
 #### 🌳 Receptive Vocabulary Knowledge

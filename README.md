@@ -97,7 +97,7 @@ ________________________________________
    - Session 1 → Actual M = 1.11 (SD = 2.14), Mediated M = 15.78 (SD = 5.46)
    - Session 2 → Actual M = 8.61 (SD = 5.89), Mediated M = 28.89 (SD = 8.73)
      
-    - 시간이 지날수록 Actual & Mediated 점수 모두 상승
+    시간이 지날수록 Actual & Mediated 점수 모두 상승
     Actual = independent ability (스스로 정답)
     Mediated = performance with prompts (힌트 받은 후 정답)
 

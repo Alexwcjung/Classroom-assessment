@@ -36,13 +36,7 @@ Research Questions:
 #### 3. Artificial intelligence for dynamic assessment
 “With the assistance of an AI agent … scholars have attempted to take advantage of AI technology when implementing assessment (Ai, 2017; Heift, 2017).”
 
-“AI agents hold potential … they provide individual, graduated, and automated mediation to which a learner is able to respond through open-ended interaction.”
-
-“However, it may seem infeasible for teachers to use AI technology in the classroom because they would need programming knowledge …”
-
-“To address this concern, AI chatbots … such as Google’s Dialogflow … can be used with ease by teachers … considered a ubiquitous technology free from time and space.”
-
-“Despite these advantages, research employing AI chatbots for DA … does not exist. To fill this gap … the present study explores the effect of chatbots used for DA on vocabulary learning and demonstrates effective ways of using chatbots for vocabulary diagnosis.”
+"the present study explores the effect of chatbots used for DA on vocabulary learning and demonstrates effective ways of using chatbots for vocabulary diagnosis.”
 
 ________________________________________
 

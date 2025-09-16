@@ -78,8 +78,8 @@ ________________________________________
       - Receptive & Productive: 1 point per item (max 10 each)
    - Reliability: interrater = 98%; Cronbach’s α ≥ 0.70
 ----	
-# Results 
-### 🌳 Receptive Vocabulary Knowledge
+## Results 
+#### 🌳 Receptive Vocabulary Knowledge
 
 Descriptive Statistics
 | Group   | Posttest M (SD) | Delayed M (SD) |
@@ -93,7 +93,7 @@ Descriptive Statistics
 Inferential Statistics
 •	“In the posttest and delayed posttest, the statistical results were F(2, 50) = 59.696, p < .05, η² = 0.70 and F(2, 50) = 54.425, p < .05, η² = 0.69, respectively.”
 
-## 🌳 Productive Vocabulary Knowledg
+#### 🌳 Productive Vocabulary Knowledg
 
 Descriptive Statistics
 | Group   | Posttest M (SD) | Delayed M (SD) |

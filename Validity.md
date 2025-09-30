@@ -91,18 +91,18 @@
 ## 🌳 Discussion & Implications  
 
 **RQ1 – Prep & Score Gains**  
-- Speaking gains → often from **construct-irrelevant test-wiseness strategies** (validity risk)  
-- Reading/Listening/Writing → gains mainly from **construct-relevant activities**  
+- Speaking gains → often from **Type 3 (construct-irrelevant test-wiseness strategies)** → validity risk  
+- Reading/Listening/Writing → gains mainly from **Type 1 (construct-relevant activities)**  
 
 **RQ2 – Strategy Changes**  
-- Early sittings: little prep → Type 2 (familiarization)  
+- Early sittings: little prep → **Type 2 (familiarization)**  
 - Later: shift to **Type 3 (test-wiseness)** or **Type 1 (construct-relevant learning)**  
 - Paths = **adaptive but non-linear**  
 
 **Implications**  
-- Positive washback often **delayed**  
-- PTE Speaking vulnerable to **construct-irrelevant preparation**  
-- Test developers should **promote construct-relevant strategies (Type 1)**  
+- Positive washback often **delayed** → learners initially rely on **Type 2/Type 3** (familiarization, test-wiseness) for short-term score gains, but only later shift to **Type 1** practices that build real proficiency  
+- PTE Speaking vulnerable to **Type 3 (construct-irrelevant preparation)**  
+- Test developers should **promote Type 1 (construct-relevant strategies)** to ensure validity and genuine language growth  
 
 ---
 

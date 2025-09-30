@@ -9,7 +9,7 @@
 - Focus: how preparation strategies change across sittings and relate to **score gains & test validity**  
 
 **Research Need**  
-- PTE Academic = key requirement for **Australian immigration**  
+- Pearson Test of English(PTE) Academic = key requirement for **Australian immigration**  
 - Many candidates **retake the test multiple times** until target scores are reached  
 - Existing research → extensive on **IELTS/TOEFL**, but limited on **PTE Academic** → this study fills the gap  
 

@@ -2,7 +2,7 @@
 
 ## 🌳 Research Topic & Need
 **Research Topic**
-- Study of repeat test takers’ preparation practices for the PTE Academic in Australia  
+- Study of Self-Access Test-Takers’ Preparation Practices for PTE Academic in Australia
 - Focus: how preparation strategies change across sittings and relate to score gains & test validity  
 
 **Research Need**

@@ -15,7 +15,15 @@
 ## 🌳 Background & Key Concepts
 **Test Preparation**
 - Activities reviewing test-related knowledge/skills (inside & outside classroom)  
-- Becomes critical in high-stakes contexts (e.g., admission, migration)  
+- Becomes critical in high-stakes contexts (e.g., admission, migration)
+- 
+#### Messick’s (1982) Classification
+
+| **Type** | **Description** | **Examples** | **Validity / Washback** |
+|----------|-----------------|--------------|-------------------------|
+| **Type 1 (Construct-relevant)** | Builds real language ability | 📖 Reading books/newspapers<br>🗣️ Speaking in English<br>📝 Writing essays with feedback | ✅ Positive washback<br>✅ Strengthens validity |
+| **Type 2 (Test familiarization & practice)** | Reduces anxiety, builds test familiarity | ⏱️ Learning test format<br>📝 Mock tests<br>🎤 PTE “Describe image” practice | ⚖️ Neutral<br>Limited language growth |
+| **Type 3 (Test-wiseness)** | Gaming the scoring system | 🎙️ Speaking unnaturally fast/loud<br>📑 Memorizing sample answers<br>🎯 Guessing strategies | ❌ Negative washback<br>❌ Threatens validity |
 
 **Double-Edged Nature**
 - ✅ Positive: builds proficiency, fairer performance  
@@ -24,6 +32,8 @@
 **Washback**
 - Impact of tests on teaching & learning  
 - Preparation practices can lead to positive or negative washback  
+
+
 
 ---
 
@@ -44,14 +54,6 @@
 - Thematic coding (NVivo)  
 - Score gain ≥ 7 points = meaningful improvement  
 - Coding framework: Messick (1982) classification  
-
-#### Messick’s (1982) Classification
-
-| **Type** | **Description** | **Examples** | **Validity / Washback** |
-|----------|-----------------|--------------|-------------------------|
-| **Type 1 (Construct-relevant)** | Builds real language ability | 📖 Reading books/newspapers<br>🗣️ Speaking in English<br>📝 Writing essays with feedback | ✅ Positive washback<br>✅ Strengthens validity |
-| **Type 2 (Test familiarization & practice)** | Reduces anxiety, builds test familiarity | ⏱️ Learning test format<br>📝 Mock tests<br>🎤 PTE “Describe image” practice | ⚖️ Neutral<br>Limited language growth |
-| **Type 3 (Test-wiseness)** | Gaming the scoring system | 🎙️ Speaking unnaturally fast/loud<br>📑 Memorizing sample answers<br>🎯 Guessing strategies | ❌ Negative washback<br>❌ Threatens validity |
 
 ---
 

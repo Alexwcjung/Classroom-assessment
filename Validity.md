@@ -5,11 +5,11 @@
 ## 🌳 Research Topic & Need  
 
 **Research Topic**  
-- Study of self-access test takers’ preparation practices for the **PTE Academic** in Australia  
+- Study of self-access test takers’ preparation practices for the **Pearson Test of English(PTE) Academic** in Australia  
 - Focus: how preparation strategies change across sittings and relate to **score gains & test validity**  
 
 **Research Need**  
-- Pearson Test of English(PTE) Academic = key requirement for **Australian immigration**  
+- PTE Academic = key requirement for **Australian immigration**  
 - Many candidates **retake the test multiple times** until target scores are reached  
 - Existing research → extensive on **IELTS/TOEFL**, but limited on **PTE Academic** → this study fills the gap  
 

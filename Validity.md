@@ -13,26 +13,26 @@
 ---
 
 ## 🌳 Background & Key Concepts
-**Test Preparation**  
+
+### Test Preparation  
 - Activities reviewing test-related knowledge/skills (inside & outside classroom)  
 - Becomes critical in high-stakes contexts (e.g., admission, migration)  
 - Can be categorized into three types (Messick’s Classification, 1982):  
 
-### ➤ Type 1: Construct-relevant practice  
+#### 🔹 Type 1: Construct-relevant practice  
 - **Description:** Builds construct-relevant skills; directly improves the language abilities the test is designed to measure  
 - **Examples:** 📖 Reading books/newspapers, 🗣️ Speaking in English, 📝 Writing essays with feedback  
 - **Validity / Washback:** ✅ Positive washback, ✅ Strengthens validity  
 
-### ➤ Type 2: Test familiarization & practice  
+#### 🔹 Type 2: Test familiarization & practice  
 - **Description:** Reduces construct-irrelevant interferences by familiarizing candidates with test format, tasks, and procedures  
 - **Examples:** ⏱️ Learning test format, 📝 Mock tests, 🎤 PTE “Describe image” practice  
 - **Validity / Washback:** ⚖️ Neutral effect, helps fairness but limited language growth  
 
-### ➤ Type 3: Test-wiseness strategies  
+#### 🔹 Type 3: Test-wiseness strategies  
 - **Description:** Relies on construct-irrelevant skills; exploits test design or scoring algorithms rather than language ability  
 - **Examples:** 🎙️ Speaking unnaturally fast/loud, 📑 Memorizing sample answers, 🎯 Guessing strategies  
 - **Validity / Washback:** ❌ Negative washback, ❌ Threatens validity  
-
 
 
 **Double-Edged Nature**

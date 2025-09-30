@@ -73,10 +73,15 @@
 
 ## 🌳 Results: Score Improvements  
 
+**Improvement Categories**  
+- Medium: +7–9 points  
+- Large: +10 or more  
+- Gradual: ≥ +10 over multiple sittings (no decline)  
+
 **Skill-specific Findings**  
 - **Speaking** → largest gains  
-  - Type 3 (test-wiseness: fluency tricks, voice modulation)  
-  - Type 2 (task-specific practice)  
+  - Type 3 (test-wiseness: **fluency tricks** – speaking very fast, avoiding pauses, speaking loudly; voice modulation)  
+  - Type 2 (familiarization: **task-specific practice** – repeated rehearsal of “describe an image” or “repeat sentence” tasks)  
 - **Reading** → gradual gains (Type 1: general reading, aloud practice)  
 - **Listening** → modest gains (dictation-focused practice)  
 - **Writing** → minimal gains (isolated practice, mock exams)  

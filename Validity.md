@@ -111,4 +111,4 @@
 1. Should teachers focus more on **test-taking strategies** (timing, guessing, task drills) or on **general English ability** (reading, speaking, writing)?  
    - How can we maintain a **balance** between the two?  
 
-2. Since repeat takers often shift from test-wiseness strategies to genuine language learning, how can teachers **accelerate this shift** toward construct-relevant skills?  
+2. In high-stakes contexts (e.g., immigration, university admission), should teachers adapt their teaching to students’ immediate score needs, or prioritize long-term language growth?

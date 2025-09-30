@@ -1,6 +1,6 @@
 # Presentation Summary – Knoch et al. (2020)
 
-## 🌳☘ Research Topic & Need
+## 🌳 Research Topic & Need
 **Research Topic**
 - Study of repeat test takers’ preparation practices for the PTE Academic in Australia  
 - Focus: how preparation strategies change across sittings and relate to score gains & test validity  
@@ -12,7 +12,7 @@
 
 ---
 
-## Background & Key Concepts
+## 🌳 Background & Key Concepts
 **Test Preparation**
 - Activities reviewing test-related knowledge/skills (inside & outside classroom)  
 - Becomes critical in high-stakes contexts (e.g., admission, migration)  
@@ -27,7 +27,7 @@
 
 ---
 
-## Method
+## 🌳 Method
 **Research Aims**
 - Link between prep activities ↔ score gains  
 - Do repeat takers change strategies over time?  
@@ -47,7 +47,7 @@
 
 ---
 
-## Messick’s (1982) Classification
+## 🌳 Messick’s (1982) Classification
 
 | **Type** | **Description** | **Examples** | **Validity / Washback** |
 |----------|-----------------|--------------|-------------------------|
@@ -57,7 +57,7 @@
 
 ---
 
-## Results: Score Improvements
+## 🌳 Results: Score Improvements
 **Improvement Categories**
 - Medium: +7–9 points  
 - Large: +10 or more  
@@ -73,7 +73,7 @@
 
 ---
 
-## Discussion & Implications
+## 🌳 Discussion & Implications
 **RQ1 – Prep & Score Gains**
 - Speaking gains → often Type 3 strategies (validity risk)  
 - Reading/Listening/Writing → gains from Type 1 activities  
@@ -90,6 +90,6 @@
 
 ---
 
-## Teacher Discussion Questions
+## 🌳 Teacher Discussion Questions
 - Should teachers spend more time on **test-taking strategies** (timing, guessing, task practice) or on **general English ability** (reading, speaking, writing)? and how can we maintain a **balance** between the two?  
 - Given that repeat test takers often shift from shortcuts to genuine learning, how can teachers **accelerate this shift** toward construct-relevant skills?  

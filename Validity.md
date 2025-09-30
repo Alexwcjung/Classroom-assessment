@@ -53,7 +53,6 @@
 **Design & Participants**  
 - 60 repeat PTE Academic takers  
 - Test sittings: **min 2, max 22, avg. 6**  
-- Context: Australia → immigration-driven retakes  
 
 **Data Collection**  
 - Semi-structured **phone interviews** (audio-recorded, avg. 33 minutes)  

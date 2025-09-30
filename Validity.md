@@ -13,16 +13,26 @@
 ---
 
 ## 🌳 Background & Key Concepts
-**Test Preparation**
+**Test Preparation**  
 - Activities reviewing test-related knowledge/skills (inside & outside classroom)  
-- Becomes critical in high-stakes contexts (e.g., admission, migration)
-- Types of test preparation (Messick’s Classification, 1982)
+- Becomes critical in high-stakes contexts (e.g., admission, migration)  
+- Can be categorized into three types (Messick’s Classification, 1982):  
 
-| **Type** | **Description** | **Examples** | **Validity / Washback** |
-|----------|-----------------|--------------|-------------------------|
-| **Type 1 (Construct-relevant practice)** | Builds **construct-relevant skills**; directly improves the language abilities the test is designed to measure | 📖 Reading books/newspapers<br>🗣️ Speaking in English<br>📝 Writing essays with feedback | ✅ Positive washback<br>✅ Strengthens validity |
-| **Type 2 (Test familiarization & practice)** | **Reduces construct-irrelevant interferences** by familiarizing candidates with test format, tasks, and procedures | ⏱️ Learning test format<br>📝 Mock tests<br>🎤 PTE “Describe image” practice | ⚖️ Neutral<br>Helps fairness but limited language growth |
-| **Type 3 (Test-wiseness strategies)** | Relies on **construct-irrelevant skills**; exploits test design or scoring algorithms rather than language ability | 🎙️ Speaking unnaturally fast/loud<br>📑 Memorizing sample answers<br>🎯 Guessing strategies | ❌ Negative washback<br>❌ Threatens validity |
+### ➤ Type 1: Construct-relevant practice  
+- **Description:** Builds construct-relevant skills; directly improves the language abilities the test is designed to measure  
+- **Examples:** 📖 Reading books/newspapers, 🗣️ Speaking in English, 📝 Writing essays with feedback  
+- **Validity / Washback:** ✅ Positive washback, ✅ Strengthens validity  
+
+### ➤ Type 2: Test familiarization & practice  
+- **Description:** Reduces construct-irrelevant interferences by familiarizing candidates with test format, tasks, and procedures  
+- **Examples:** ⏱️ Learning test format, 📝 Mock tests, 🎤 PTE “Describe image” practice  
+- **Validity / Washback:** ⚖️ Neutral effect, helps fairness but limited language growth  
+
+### ➤ Type 3: Test-wiseness strategies  
+- **Description:** Relies on construct-irrelevant skills; exploits test design or scoring algorithms rather than language ability  
+- **Examples:** 🎙️ Speaking unnaturally fast/loud, 📑 Memorizing sample answers, 🎯 Guessing strategies  
+- **Validity / Washback:** ❌ Negative washback, ❌ Threatens validity  
+
 
 
 **Double-Edged Nature**

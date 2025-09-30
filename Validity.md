@@ -34,13 +34,10 @@
 - Examples: Speaking unnaturally fast or loud, memorizing sample answers, using guessing strategies  
 - Validity / Washback: ❌ Negative washback, threatens validity  
 
----
-
 ### Double-Edged Nature  
 - ✅ Positive: builds proficiency, fairer performance  
 - ❌ Negative: test-wiseness strategies inflate scores and threaten validity  
 
----
 
 ### Washback  
 - Impact of tests on teaching & learning  

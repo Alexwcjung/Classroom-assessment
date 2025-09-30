@@ -83,8 +83,8 @@
   - Type 3 (test-wiseness: **fluency tricks** – speaking very fast, avoiding pauses, speaking loudly; voice modulation)  
   - Type 2 (familiarization: **task-specific practice** – repeated rehearsal of “describe an image” or “repeat sentence” tasks)  
 - **Reading** → gradual gains (Type 1: general reading, aloud practice)  
-- **Listening** → modest gains (dictation-focused practice)  
-- **Writing** → minimal gains (isolated practice, mock exams)  
+- **Listening** → modest gains (Type 1: dictation-focused practice)  
+- **Writing** → minimal gains (Type 1: isolated essay practice, mock exams – but not systematic)  
 
 ---
 

@@ -1,4 +1,4 @@
-# 📖 Presentation Summary – Knoch et al. (2020)
+# 📖 Drawing on repeat test takers to study test preparation practices and their links to score gains – Knoch et al. (2020)
 
 ---
 

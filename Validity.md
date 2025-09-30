@@ -13,6 +13,12 @@
 - Many candidates **retake the test multiple times** until target scores are reached  
 - Existing research → extensive on **IELTS/TOEFL**, but limited on **PTE Academic** → this study fills the gap  
 
+## 🌳 Research Questions  
+
+- **RQ1:** Are the test preparation activities reported by candidates related to actual score improvements?  
+- **RQ2:** Do repeat test takers change their preparation strategies over successive sittings?  
+
+
 ---
 
 ## 🌳 Background & Key Concepts  

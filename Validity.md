@@ -16,14 +16,14 @@
 **Test Preparation**
 - Activities reviewing test-related knowledge/skills (inside & outside classroom)  
 - Becomes critical in high-stakes contexts (e.g., admission, migration)
-- 
-#### Messick’s (1982) Classification
+- Types of test preparation (Messick’s Classification, 1982)
 
 | **Type** | **Description** | **Examples** | **Validity / Washback** |
 |----------|-----------------|--------------|-------------------------|
-| **Type 1 (Construct-relevant)** | Builds real language ability | 📖 Reading books/newspapers<br>🗣️ Speaking in English<br>📝 Writing essays with feedback | ✅ Positive washback<br>✅ Strengthens validity |
-| **Type 2 (Test familiarization & practice)** | Reduces anxiety, builds test familiarity | ⏱️ Learning test format<br>📝 Mock tests<br>🎤 PTE “Describe image” practice | ⚖️ Neutral<br>Limited language growth |
-| **Type 3 (Test-wiseness)** | Gaming the scoring system | 🎙️ Speaking unnaturally fast/loud<br>📑 Memorizing sample answers<br>🎯 Guessing strategies | ❌ Negative washback<br>❌ Threatens validity |
+| **Type 1 (Construct-relevant practice)** | Builds **construct-relevant skills**; directly improves the language abilities the test is designed to measure | 📖 Reading books/newspapers<br>🗣️ Speaking in English<br>📝 Writing essays with feedback | ✅ Positive washback<br>✅ Strengthens validity |
+| **Type 2 (Test familiarization & practice)** | **Reduces construct-irrelevant interferences** by familiarizing candidates with test format, tasks, and procedures | ⏱️ Learning test format<br>📝 Mock tests<br>🎤 PTE “Describe image” practice | ⚖️ Neutral<br>Helps fairness but limited language growth |
+| **Type 3 (Test-wiseness strategies)** | Relies on **construct-irrelevant skills**; exploits test design or scoring algorithms rather than language ability | 🎙️ Speaking unnaturally fast/loud<br>📑 Memorizing sample answers<br>🎯 Guessing strategies | ❌ Negative washback<br>❌ Threatens validity |
+
 
 **Double-Edged Nature**
 - ✅ Positive: builds proficiency, fairer performance  

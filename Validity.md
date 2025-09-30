@@ -73,11 +73,6 @@
 
 ## 🌳 Results: Score Improvements  
 
-**Improvement Categories**  
-- Medium: +7–9 points  
-- Large: +10 or more  
-- Gradual: ≥ +10 over multiple sittings (no decline)  
-
 **Skill-specific Findings**  
 - **Speaking** → largest gains  
   - Type 3 (test-wiseness: fluency tricks, voice modulation)  

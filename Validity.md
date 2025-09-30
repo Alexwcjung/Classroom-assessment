@@ -63,7 +63,6 @@
 **Data Collection**  
 - Semi-structured **phone interviews** (audio-recorded, avg. 33 minutes)  
 - Focus: **test preparation, test-taking experiences, score feedback**  
-- Supplement: official score reports  
 
 **Analysis**  
 - Interviews transcribed and coded thematically using **NVivo**  

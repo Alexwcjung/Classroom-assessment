@@ -74,7 +74,7 @@
 | **Intermediate (Low–High)** | 간단한 연결문으로 익숙한 주제 표현 가능 | “I usually go to school by bus. It takes about twenty minutes.” | **Level 2:** 익숙한 주제에서 2–3문장 연결 발화, 이유 제시 가능 |
 | **Advanced (Low–High)** | 다양한 시제 사용, 단락 수준의 담화, 의견·경험 설명 가능 | “When I was a child, I often went to the beach with my family. Now I prefer mountains because they are quieter.” | **Level 3:** 단락 수준 발화, 과거·현재·미래 시제 활용 가능, 오류 있으나 의사소통 유지 |
 | **Superior** | 복잡한 주제 논리적 논의, 추상적 표현 가능 | “If I were a policymaker, I would invest more in renewable energy to reduce carbon emissions.” | **Level 4:** 사회적·추상적 주제 논의 가능, 논리적 연결어 사용 |
-| **Distinguished** | 학문적·전문적 수준, 고도의 담화 능력 | “The intersection of technology and ethics requires a multidimensional approach to global policy.” | **Level 5:** 학문적·전문적 주제에 대해 설득력 있고 정교하게 발화 가능. 다양한 담화전략과 어휘를 활용하여 견해를 논리적으로 조직함. (특성화고 맥락에서는 드물지만 최고 수준의 수행 예로 제시 가능) |
+| **Distinguished** | 학문적·전문적 수준, 고도의 담화 능력 | “The intersection of technology and ethics requires a multidimensional approach to global policy.” | **Level 5:** 학문적·전문적 주제에 대해 설득력 있고 정교하게 발화 가능. 다양한 담화전략과 어휘를 활용하여 견해를 논리적으로 조직함. |
 
 ---
 

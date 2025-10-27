@@ -45,11 +45,10 @@
 
 | Section | Key Details |
 |----------|--------------|
-| **Participants** | **Speakers:** 24 total across six accents (American, British, Chinese, Indian, Korean, Mexican). Selected via expert ratings (≥ 4/5 accentedness & comprehensibility, ≥ 90% intelligibility). <br> **Listeners:** 160 total (40 each from Chinese, Korean, Hindi, and Mexican-Spanish L1 groups). Average age = 23.8, average English study = 6.5 years. |
-| **Tasks** | - **Yes/No Vocabulary:** 18 items per set × 3 sets (word + nonword).  <br> - **Dictation:** 8 sentences per set × 3 sets.  <br> - **Elicited Imitation Test (EIT):** measured general proficiency (control variable). |
-| **Procedure** | Three listening phases: <br> (1) *Inner-circle accent* (AmE/BrE) → (2) *Shared-L1 accent* → (3) *Non-shared L2 accent*. <br> Each phase used unique recordings; total time ≈ 45 min. |
-| **Analysis** | Linear Mixed-Effects Models (LMM) in R. <br> Fixed effects: EIT score, listener L1, speaker accent, task type. <br> Dependent variable: DET accuracy score. |
-:contentReference[oaicite:3]{index=3}
+| **Participants** | **Speakers:** 총 24명, 6개 억양 (AmE, BrE, Chinese, Indian, Korean, Mexican English). 전문가 평가로 명료도 ≥ 90%, 이해도 ≥ 4/5 기준 통과 화자만 선정. <br> **Listeners:** 총 160명 (중국어, 한국어, 힌디어, 스페인어 L1 그룹 각 40명). 평균 23.8세, 평균 영어 학습 기간 6.5년. |
+| **Tasks** | - **Yes/No Vocabulary:**실제 단어와 비단어 인식 (18문항 × 3세트).  <br> - **Dictation:** 문장 받아쓰기 (8문항 × 3세트).  <br> - **Elicited Imitation Test (EIT):** 전반적 영어 숙련도 측정용(통제변수). |
+| **Procedure** | - 3단계 청취: (1) 표준 억양(AmE/BrE) → (2) 공유된 L1 억양 → (3) 비공유 L2 억양.  <br> 각 참가자는 세 단계 모두 다른 음성자료를 들음. 전체 소요 약 45분. |
+| **Analysis** | Linear Mixed-Effects Model (LMM) 사용. <br> 고정요인: EIT 점수, 화자 억양, 청자 L1, 과제유형(task). <br> 종속변수: DET 수행 점수(정답률) |
 
 ---
 

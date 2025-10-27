@@ -66,7 +66,6 @@
 
 - **Korean listeners** outperformed all other groups (β = .079, *p* < .001).  
 - **Shared-L1 accents > other L2 accents**, but **Shared-L1 ≈ Inner-circle** when both were highly intelligible.  
-:contentReference[oaicite:4]{index=4}
 
 ### 🌱 Task Type Effects
 - Dictation vs. Yes/No 과제 간 유의한 차이 없음 (p = .708).

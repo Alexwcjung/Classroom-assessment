@@ -58,10 +58,10 @@
 
 | Predictor | β | p | Interpretation |
 |------------|---|---|----------------|
-| **Shared-L1 accent** | +0.016 | .044 | Significant improvement in shared-accent condition |
-| **Inner-circle accent** | +0.019 | .416 | No significant difference vs. other accents |
-| **Outer-circle (Indian)** | −0.041 | .035 | Performance decreased with Indian accent |
-| **Task effect** | n.s. | .708 | No difference between task types |
+| **Shared-L1 accent** | +0.016 | .044 | 공유된 억양에서 유의한 향상 |
+| **Inner-circle accent** | +0.019 | .416 | 표준 억양과 차이 없음 |
+| **Outer-circle (Indian)** | −0.041 | .035 | 인도 억양에서는 수행 저하 |
+| **Task effect** | n.s. | .708 | 과제 유형 차이 없음 |
 
 - **Korean listeners** outperformed all other groups (β = .079, *p* < .001).  
 - **Shared-L1 accents > other L2 accents**, but **Shared-L1 ≈ Inner-circle** when both were highly intelligible.  

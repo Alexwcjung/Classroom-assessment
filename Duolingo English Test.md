@@ -68,9 +68,8 @@
 :contentReference[oaicite:4]{index=4}
 
 ### 🌱 Task Type Effects
-- No significant difference between **dictation** and **yes/no vocabulary** (*p* = .708).  
-- Both tasks depend primarily on **speaker intelligibility**, not task format.  
-:contentReference[oaicite:5]{index=5}
+- Dictation vs. Yes/No 과제 간 유의한 차이 없음 (p = .708).
+- 두 과제 모두 음운 인식 기반으로, 화자의 명료도가 주요 영향 요인임.
 
 ---
 

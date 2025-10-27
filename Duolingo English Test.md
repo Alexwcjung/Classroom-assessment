@@ -17,7 +17,7 @@
 ### 🎯 Research Questions
 1. To what extent does listening to *shared vs. different English accents* affect test-takers’ DET listening performance?  
 2. How do *different English accents* influence performance across the two DET task types (*yes/no vocabulary* and *dictation*)?  
-:contentReference[oaicite:0]{index=0}
+
 
 ---
 

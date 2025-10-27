@@ -25,9 +25,9 @@
 
 ### 1️⃣ Use of Different English Accents in Listening Assessment
 - **Kachru’s (1985)** *World Englishes (WE)* model divides English varieties into:
-  - **Inner circle (내부권):** Standard native English (U.S., U.K.)
-  - **Outer circle (외부권):** Official but not everyday English (India, Philippines)
-  - **Expanding circle (확장권):** Foreign language contexts (Korea, China)
+  - **Inner circle (내부권, 미·영 등 표준 원어민):** Standard native English (U.S., U.K.)
+  - **Outer circle (외부권, 공용어로 사용되는 인도, 필리핀 등):** Official but not everyday English (India, Philippines)
+  - **Expanding circle (확장권, 외국어로 배우는 국가, 한국·중국 등):** Foreign language contexts (Korea, China)
 - Calls for including *L1-accented English varieties* in testing (Harding, 2012) are tempered by concerns about **accent familiarity bias** and **fairness** (Taylor & Geranpayeh, 2011).  
 - The **Shared-L1 Intelligibility Benefit** (Bent & Bradlow, 2003) posits that shared phonological systems lead to higher comprehension between speakers and listeners with the same L1.  
 - Yet, effects may disappear for **highly intelligible or advanced speakers** (Kang et al., 2019; Munro et al., 2006).  

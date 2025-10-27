@@ -49,7 +49,7 @@
 | **Participants** | **Speakers:** 총 24명, 6개 억양 (AmE, BrE, Chinese, Indian, Korean, Mexican English). 전문가 평가로 명료도 ≥ 90%, 이해도 ≥ 4/5 기준 통과 화자만 선정. <br> **Listeners:** 총 160명 (중국어, 한국어, 힌디어, 스페인어 L1 그룹 각 40명). 평균 23.8세, 평균 영어 학습 기간 6.5년. |
 | **Tasks** | - **Yes/No Vocabulary:** 실제 단어와 비단어 인식 (18문항 × 3세트).  <br> - **Dictation:** 문장 받아쓰기 (8문항 × 3세트).  <br> - **Elicited Imitation Test (EIT):** 전반적 영어 숙련도 측정용(통제변수). |
 | **Procedure** | - 3단계 청취: (1) 표준 억양(AmE/BrE) → (2) 공유된 L1 억양 → (3) 비공유 L2 억양.  <br> 각 참가자는 세 단계 모두 다른 음성자료를 들음. 전체 소요 약 45분. |
-| **Analysis** | Linear Mixed-Effects Model (LMM) 사용. <br> 고정요인: EIT 점수, 화자 억양, 청자 L1, 과제유형(task). <br> 종속변수: DET 수행 점수(정답률) |
+| **Analysis** | Linear Mixed-Effects Model (LMM) 사용. |
 
 ---
 

@@ -35,8 +35,9 @@
   - Yet, effects may disappear for **highly intelligible or advanced speakers** (Kang et al., 2019; Munro et al., 2006).  
 
 ### 2️⃣ Task Types and Listening Assessment
-- The two DET tasks — *yes/no vocabulary* and *dictation* — are **phoneme-level perception tasks** relying on **speaker intelligibility**.  
-- Shared-L1 advantages appear stronger in **word-recognition tasks** than in comprehension tasks (Dai & Roever, 2019).  
+- Listening tasks such as dictation and yes/no tests rely largely on speaker intelligibility rather than purely on listening skills (Kang et al., 2018, 2020).
+- Studies show that when speakers are highly intelligible, outer- and expanding-circle accents do not significantly reduce comprehension (Field, 2013; Kang et al., 2019, 2020).
+- Therefore, further research is needed to examine how global English accents affect the validity of listening tasks in assessments like the Duolingo English Test (DET) (Dai & Roever, 2019).
 
 ---
 

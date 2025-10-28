@@ -43,12 +43,13 @@
 
 ## ⚙️ Method
 
-| Section | Key Details |
-|----------|--------------|
-| **Participants** | - **Speakers:** 총 24명, 6개 억양 (AmE, BrE, Chinese, Indian, Korean, Mexican English). 선정 과정 : 전문가 평가자들이 각 화자의 **억양(accentedness)** 과 **이해 용이성(comprehensibility)** 을 5점 척도로 평가하고, 이 두 항목의 평균 점수가 4점 이상인 화자를 선별하였다. 또한 **명료도(intelligibility)** 를 측정하기 위해 전사 정확도(단어를 정확히 받아 적은 비율)를 산출했으며, 90% 이상을 기록한 화자만 최종적으로 선정되었다. <br> - **Listeners:** 총 160명 (중국어, 한국어, 힌디어, 스페인어 L1 그룹 각 40명). 평균 23.8세, 평균 영어 학습 기간 6.5년. |
-| **Tasks** | - **Yes/No Vocabulary:** 실제 단어와 비단어 인식 (18문항 × 3세트).  <br> - **Dictation:** 문장 받아쓰기 (8문항 × 3세트).  <br> - **Elicited Imitation Test (EIT):** 전반적 영어 숙련도 측정용(통제변수). |
-| **Procedure** | - 3단계 청취: (1) 표준 억양(AmE/BrE) → (2) 공유된 L1 억양 → (3) 비공유 L2 억양.  <br> 각 참가자는 세 단계 모두 다른 음성자료를 들음. 전체 소요 약 45분. |
-| **Analysis** | Linear Mixed-Effects Model (LMM) 사용. |
+| **Section** | **Key Details** |
+|--------------|----------------|
+| **Participants** | - **Speakers:** 24 total across **six English varieties** (American, British, Chinese, Indian, Korean, Mexican English). Expert raters evaluated each speaker’s **accentedness** and **comprehensibility** on a 5-point scale, selecting those averaging **4 or higher**. **Intelligibility** was measured via **word transcription accuracy**, and only speakers scoring **90% or higher** were included. <br> - **Listeners:** 160 participants (40 each from Chinese, Korean, Hindi, and Spanish L1 groups). Mean age **23.8 years**, with an average of **6.5 years of English study**. |
+| **Tasks** | - **Yes/No Vocabulary Task:** Each phase contained **18 items** (9 real words + 9 nonwords). Participants heard nine stimuli per screen and judged whether each was a real English word (e.g., *“planet” → Yes*, *“flenip” → No*). They could listen **unlimited times within 90 seconds**. Recordings were evenly distributed across four speakers (at least two per speaker). <br><br> - **Dictation Task:** Each phase included **8 sentences** (two per speaker). Participants listened and **transcribed each sentence accurately** (e.g., *“The boy is reading a book.”*). Each item could be played **up to three times**, and participants had **60 seconds** to type the transcription. Items were randomly selected from each accent pool but kept **identical across listeners** to avoid repetition across phases. <br><br> - **Elicited Imitation Test (EIT):** Comprised of **24 sentences** used as an **independent measure of overall English proficiency**. Participants listened to a sentence, **identified one of two target words**, and **repeated the sentence as accurately as possible** (e.g., *Heard: “The professor explained the theory.” → Choices: theory / story → Correct: theory*). Sentences were organized into **three blocks** by length and linguistic complexity, with a fixed block order but **randomized items within each block**. |
+| **Procedure** | Three listening phases: (1) **Standard accent** (AmE/BrE) → (2) **Shared L1 accent** → (3) **Unfamiliar non-shared accent**. Each phase used **unique, non-repeated items** presented in **random order**, and the task interface **mirrored the Duolingo English Test (DET)**. Total duration was approximately **45 minutes**. |
+| **Analysis** | Data were analyzed using a **Linear Mixed-Effects Model (LMM)** to examine the effects of **accent** and **task type** on listening performance. |
+
 
 ---
 

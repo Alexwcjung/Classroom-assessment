@@ -60,51 +60,55 @@
 
 | Predictor | β | p | Interpretation |
 |------------|---|---|----------------|
-| **Shared-L1 accent** | +0.016 | .044 | 공유된 억양에서 유의한 향상 |
-| **Inner-circle accent** | +0.019 | .416 | 표준 억양과 차이 없음 |
-| **Outer-circle (Indian)** | −0.041 | .035 | 인도 억양에서는 수행 저하 |
-| **Task effect** | n.s. | .708 | 과제 유형 차이 없음 |
-
-- **Korean listeners** outperformed all other groups (β = .079, *p* < .001).  
-- **Shared-L1 accents > other L2 accents**, but **Shared-L1 ≈ Inner-circle** when both were highly intelligible.  
-
-### 🌱 Task Type Effects
-- Dictation vs. Yes/No 과제 간 유의한 차이 없음 (p = .708).
-- 두 과제 모두 음운 인식 기반으로, 화자의 명료도가 주요 영향 요인임.
+| **Shared-L1 accent** | +0.016 | .044 | 공유된 억양에서 유의한 향상 (Shared-L1 benefit) |
+| **Inner-circle accent** | +0.019 | .416 | 표준 억양(AmE/BrE)과 차이 없음 |
+| **Outer-circle (Indian)** | −0.041 | .035 | 인도 억양에서 수행 저하 |
+| **Task effect** | n.s. | .708 | 과제 유형 간 차이 없음 |
 
 ---
 
-## 💬 Discussion
+### 🧩 해석 및 논의
 
-1. **Shared-L1 Benefit:**  
-   Listeners performed better when hearing speakers who shared their L1, confirming Bent & Bradlow (2003)’s *Matched Interlanguage Intelligibility Benefit*.  
+1. **Shared-L1 Accent Effect (공유된 L1 억양 효과)**  
+   - 참가자들은 자신과 **같은 L1 배경의 억양(shared-L1)**을 들을 때 수행이 통계적으로 유의하게 향상되었다(*β = +0.016, p = .044*).  
+   - 이는 Bent & Bradlow (2003)의 *Matched Interlanguage Intelligibility Benefit*을 지지하며,  
+     청자가 **자신의 모국어 기반 억양에 더 익숙**하고, 발음 변이에 대한 **예측 가능성**이 높기 때문으로 해석된다.  
+   - 다시 말해, **“나와 같은 억양을 가진 화자의 말은 더 쉽게 들린다”**는 현상이 실험적으로 확인된 것이다.  
 
-2. **Inner-circle vs. Shared-L1:**  
-   Performances were equally high — possibly due to **familiarity** with standard accents through learning exposure.  
+2. **Inner-circle Accent (표준 억양: American/British English)**  
+   - 표준 억양(AmE, BrE)을 들었을 때의 수행은 shared-L1 억양과 **유의한 차이가 없었다**(*p = .416*).  
+   - 이는 **명료도가 높은 표준 억양**과 **고숙련 L2 화자의 억양**이 듣기 이해도에 있어 **동등한 효과**를 가짐을 보여준다.  
+   - 즉, **‘원어민 여부’보다 ‘얼마나 명확하게 발음되는가’가 더 중요하다**는 점을 시사한다.  
 
-3. **Indian (Outer-circle) Accent:**  
-   Despite high intelligibility, produced lower scores — suggesting accent familiarity still matters.  
+3. **Outer-circle Accent (Indian English)**  
+   - 인도 억양은 유일하게 **음성 명료도 기준은 충족했음에도 불구하고** 수행이 낮게 나타났다(*β = −0.041, p = .035*).  
+   - 이는 **억양 친숙도(accent familiarity)**가 여전히 중요한 변수임을 의미하며,  
+     인도 억양의 **리듬, 억양 패턴, 자음·모음 길이 차이**가 이해도에 영향을 준 것으로 보인다.  
 
-4. **Task Type:**  
-   No task-specific effects; both rely on similar **phonemic-level processing** and working memory.  
+4. **Task Type (과제 유형 효과)**  
+   - **Yes/No Vocabulary**와 **Dictation** 간 수행 차이는 유의하지 않았다(*p = .708*).  
+   - 두 과제 모두 **음운 인식(phonemic recognition)**과 **작업기억(working memory)**에 기반하여,  
+     억양보다 **화자의 명료도(intelligibility)**가 수행에 더 큰 영향을 미쳤다.  
 
-5. **Pedagogical & Testing Implications:**  
-   - Including **highly intelligible non-native accents** can improve fairness and ecological validity.  
-   - Potential for test-takers to **choose accent options** (e.g., Inner-circle or Shared-L1).  
-
-6. **Limitations:**  
-   - Only one *outer-circle* variety (Indian English).  
-   - Speaker selection limited (24 out of 77 met intelligibility threshold).  
-   - Korean group may have benefited from **task-type familiarity**.  
-:contentReference[oaicite:6]{index=6}
+5. **Listener Group Differences (청자 집단 차이)**  
+   - **한국인 청자 집단**이 가장 높은 수행을 보였으며(*β = +0.079, p < .001*),  
+     이는 과제 형식에 대한 **사전 노출(familiarity)**과 학습 경험에서 비롯된 결과로 보인다.  
 
 ---
 
-## 🧩 Key Takeaways
+### 🪶 종합 해석
+- 결과적으로, **Shared-L1 억양**은 분명한 이점을 보였지만, **Inner-circle 억양과의 차이는 사라졌다.**  
+  즉, **명료도가 충분히 확보된 경우**, 원어민 억양이든 비원어민 억양이든 **듣기 평가의 타당성을 유지**할 수 있다.  
+- 반면, **억양 친숙도(familiarity)**는 여전히 특정 억양(예: 인도 영어)에서 이해도를 낮출 수 있는 요소로 작용한다.  
+- 따라서 국제 영어 평가(예: DET)는 **다양한 억양을 포용하되, 화자의 명료도 기준을 엄격히 유지하는 방향**으로 설계될 수 있다.  
+- 이러한 접근은 시험의 **공정성(fairness)**과 **생태적 타당성(ecological validity)**을 높이며,  
+  나아가 **시험 응시자에게 억양 선택 옵션(accent choice)**을 제공하는 방향으로 발전할 수 있음을 시사한다.  
 
-> - **Shared-L1 accents** enhance listening performance.  
-> - **Shared-L1 and Inner-circle accents** yield comparable scores when both are highly intelligible.  
-> - **No task-type difference** across DET listening formats.  
-> - Supports inclusion of **diverse, highly intelligible L2 accents** in high-stakes English tests to improve **fairness** and **validity**.
+---
+
+### ⚠️ 한계
+- **Outer-circle 억양**이 인도 영어 하나만 포함되어 일반화에 제약이 있음.  
+- **화자 수(24명)**와 **청자 그룹(4개국 L1)**이 제한적이었음.  
+- **한국인 청자**의 높은 수행은 **과제 형식 친숙도(task familiarity)**의 영향일 가능성 존재.  
 
 ---

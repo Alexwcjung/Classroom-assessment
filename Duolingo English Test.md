@@ -36,7 +36,6 @@
 
 ### 2️⃣ Task Types and Listening Assessment
 - The two DET tasks — *yes/no vocabulary* and *dictation* — are **phoneme-level perception tasks** relying on **speaker intelligibility**.  
-- Input characteristics strongly influence performance (Buck, 1994; Field, 2013).  
 - Shared-L1 advantages appear stronger in **word-recognition tasks** than in comprehension tasks (Dai & Roever, 2019).  
 :contentReference[oaicite:2]{index=2}
 

@@ -73,8 +73,7 @@
    - 자신과 **같은 L1 억양**을 들을 때 수행이 유의하게 향상됨(*β = +0.016, p = .044*).  이는 Bent & Bradlow (2003)의 *Matched Interlanguage Intelligibility Benefit*을 지지하며,  **모국어 기반 억양에 대한 친숙함과 예측 가능성**이 듣기 이해를 돕는다는 점을 보여줌.  
 
 2. **Inner-circle Accent (표준 억양)**  
-   - **AmE/BrE 억양**과 **shared-L1 억양** 간 차이는 없음(*p = .416*).  
-   - 즉, 원어민 여부보다 발음 명료도(intelligibility)가 듣기 이해에 더 중요함.  
+   - **AmE/BrE 억양**과 **shared-L1 억양** 간 차이는 없음(*p = .416*).  즉, 원어민 여부보다 발음 명료도(intelligibility)가 듣기 이해에 더 중요함.  
 
 3. **Outer-circle Accent (Indian English)**  
    - 명료도 기준을 충족했음에도 수행이 낮음(*β = −0.041, p = .035*).  이는 **억양 친숙도(familiarity)** 의 부족이 이해도 저하로 이어질 수 있음을 시사.  

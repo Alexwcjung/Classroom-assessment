@@ -62,7 +62,7 @@
 | **Inner-circle Accent (AmE/BrE)** | 표준 억양(AmE/BrE)과 Shared-L1 억양 간 **유의한 차이는 없음**. 즉, **원어민 여부보다 화자의 명료도(intelligibility)**가 듣기 이해에 더 큰 영향을 미침. | β = +0.019, p = .416 |
 | **Outer-circle Accent (Indian English)** | 명료도 기준을 충족했음에도 수행이 낮게 나타남. 이는 **억양 친숙도(familiarity)** 부족이 이해도 저하에 영향을 줄 수 있음을 시사함 (단, 이 연구에서는 인도 화자만 포함함). | β = −0.041, p = .035 |
 | **Task Type Effect** | Yes/No Vocabulary와 Dictation 과제 간 **수행 차이는 없음**. 두 과제 모두 음운 인식(phonemic recognition)과 작업기억(working memory)에 기반하며, 억양보다 **화자의 명료도**가 핵심 요인으로 작용함. | p = .708 |
-| **Listener Group Differences** | **한국인 청자**가 가장 높은 수행을 보임. 이는 **과제 형식에 대한 익숙함(familiarity)**과 학습 경험에서 비롯된 결과로 해석됨. | β = +0.079, p < .001 |
+| **Listener Group Differences** | **한국인 청자**가 가장 높은 수행을 보임. 이는 과제 형식에 대한 익숙함(familiarity)과 학습 경험에서 비롯된 결과로 해석됨. | β = +0.079, p < .001 |
 
 
 

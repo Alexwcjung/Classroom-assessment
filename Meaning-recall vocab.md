@@ -5,18 +5,14 @@
 ---
 
 ## 🧭 Introduction
-Traditional **vocabulary tests** often rely on *meaning-recognition* formats  
-(e.g., multiple-choice), which are efficient but can **inflate scores** through guessing.  
+- Traditional **vocabulary tests** often rely on *meaning-recognition* formats (e.g., multiple-choice), which are efficient but can **inflate scores** through guessing.  
 
-*Meaning-recall* tests, by contrast, tap into real **productive vocabulary knowledge**  
-but are **time-consuming** and require trained human raters—especially for multilingual responses.  
+- *Meaning-recall* tests, by contrast, tap into real **productive vocabulary knowledge** but are **time-consuming** and require trained human raters—especially for multilingual responses.  
 
-With advances in **Large Language Models (LLMs)** such as GPT-4 and Gemini,  
-AI-based scoring may now achieve **human-like semantic judgment and reliability**.  
+- With advances in **Large Language Models (LLMs)** such as GPT-4 and Gemini, AI-based scoring may now achieve **human-like semantic judgment and reliability**.  
 
 🎯 **Purpose**  
-To determine whether **LLMs (GPT-4o, Gemini 1.5, Llama 3-8B)** can score  
-meaning-recall vocabulary responses **as reliably and consistently as human raters**.
+- To determine whether **LLMs (GPT-4o, Gemini 1.5, Llama 3-8B)** can score meaning-recall vocabulary responses **as reliably and consistently as human raters**.
 
 ---
 

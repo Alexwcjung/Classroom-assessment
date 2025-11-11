@@ -5,16 +5,35 @@
 ---
 
 ## 🧭 Introduction
-- Traditional **vocabulary tests** often rely on *meaning-recognition* formats (e.g., multiple-choice), which are efficient but can **inflate scores** through guessing.  
 
-- *Meaning-recall* tests, by contrast, tap into real **productive vocabulary knowledge** but are **time-consuming** and require trained human raters—especially for multilingual responses.  
+Traditional vocabulary tests often rely on **meaning-recognition formats** (e.g., multiple-choice), which are efficient but can inflate scores through guessing.  
 
-- With advances in **Large Language Models (LLMs)** such as GPT-4 and Gemini, AI-based scoring may now achieve **human-like semantic judgment and reliability**.  
+**Meaning-recall tests**, by contrast, tap into real productive vocabulary knowledge but are time-consuming and require trained human raters—especially for multilingual responses.  
 
-🎯 **Purpose**  
-- To determine whether **LLMs (GPT-4o, Gemini 1.5, Llama 3-8B)** can score meaning-recall vocabulary responses **as reliably and consistently as human raters**.
+With advances in **Large Language Models (LLMs)** such as *GPT-4* and *Gemini*, AI-based scoring may now achieve human-like semantic judgment and reliability.
 
 ---
+
+## 🎯 Purpose
+
+To determine whether **LLMs (GPT-4o, Gemini 1.5, Llama 3-8B)** can score meaning-recall vocabulary responses **as reliably and consistently as human raters**.
+
+---
+
+## ❓ Research Questions
+
+**RQ1.** Are LLM ratings stricter, more lenient, or statistically indistinguishable from human ratings?  
+→ Compare mean scores and rater severity between human and LLM scoring using Many-Facet Rasch Measurement (MFRM).
+
+**RQ2.** Does scoring meaning-recall vocabulary tests with LLMs affect reliability compared to human scoring?  
+→ Examine internal consistency (Cronbach’s α) and score variance to determine whether AI scoring yields comparable reliability.
+
+**RQ3.** Are correlations between human and LLM ratings acceptable under inter-rater reliability standards?  
+→ Evaluate Pearson and intraclass correlations to see if Human–AI agreement matches human–human benchmarks.
+
+**RQ4.** When and why do LLM and human raters differ in their judgments?  
+→ Identify items with significant Human–AI disagreement and analyze whether differences stem from categorical errors or natural rater leniency.
+
 
 ## 📚 Background
 * **Recognition tests:** efficient but they may fail to fully reflect a learner’s true ability.

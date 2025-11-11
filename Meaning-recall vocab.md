@@ -17,7 +17,7 @@
 ---
 
 ## 📚 Background
-* **Recognition tests:** efficient but risk *construct underrepresentation*.  
+* **Recognition tests:** efficient but they may fail to fully reflect a learner’s true ability.
 * **Recall tests:** more valid but labor-intensive to score.  
 * **LLMs:** show strong *contextual and semantic matching* (Aryadoust 2023; Roever 2024).  
 - Empirical evidence comparing **human vs. AI reliability** is still limited.  

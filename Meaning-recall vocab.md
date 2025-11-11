@@ -14,12 +14,6 @@ With advances in **Large Language Models (LLMs)** such as *GPT-4* and *Gemini*, 
 
 ---
 
-## 🎯 Purpose
-
-To determine whether **LLMs (GPT-4o, Gemini 1.5, Llama 3-8B)** can score meaning-recall vocabulary responses **as reliably and consistently as human raters**.
-
----
-
 ## ❓ Research Questions
 
 **RQ1.** Are LLM ratings stricter, more lenient, or statistically indistinguishable from human ratings?  

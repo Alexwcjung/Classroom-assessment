@@ -44,21 +44,21 @@ With advances in **Large Language Models (LLMs)** such as *GPT-4* and *Gemini*, 
 
 ## 📊 Results (결과)
 
-### 🧩 RQ1. Rating strictness and comparability
+### 🧩 RQ1. Relative rater severity between humans and LLMs
 | 주요 결과 | 요약 |
 |------------|-------|
 | **Mean score pattern** | Gemini (75.3) > Human1 (73.8) ≈ GPT (71.5) ≈ Human2 (70.2) > Llama (64.7) |
 | **Interpretation** | GPT-4o와 Gemini는 인간 채점자와 통계적으로 유의한 차이가 없음. <br> → 두 모델 모두 **인간 수준의 평균 점수 및 채점 경향**을 보임. <br> Llama는 **가장 보수적인(엄격한)** 채점 경향을 나타냄. |
 
 
-### 🧩 RQ2. Reliability (내적 일관성)
+### 🧩 RQ2. Examining differences in reliability between human and LLM raters 
 | 주요 결과 | 요약 |
 |------------|-------|
 | **Cronbach’s α** | GPT (.961), Gemini (.960), Human (.962), Llama (.941) |
 | **Interpretation** | GPT와 Gemini의 신뢰도는 **인간 채점자와 동일 수준(.96)** 으로 안정적임. <br> Llama는 상대적으로 낮은 점수를 보여 **모델 크기(7B)의 한계**를 반영함. <br> → **AI 채점이 신뢰도 저하 없이 적용 가능**함을 시사. |
 
 
-### 🧩 RQ3. Human–AI Correlation and Inter-rater Agreement
+### 🧩 RQ3. Correlations between human and LLM raters and Inter-Rater reliability
 | 주요 결과 | 요약 |
 |------------|-------|
 | **Pearson r** | Human–AI 간 상관 r > .95 |
@@ -66,7 +66,7 @@ With advances in **Large Language Models (LLMs)** such as *GPT-4* and *Gemini*, 
 | **Interpretation** | GPT와 Gemini의 점수는 **인간 간 상관(.925)** 을 능가하거나 유사한 수준으로, **채점 일치도가 매우 높음.** <br> → LLM 기반 채점이 **인간 채점자 간 변동 범위 내**에서 안정적으로 작동함. |
 
 
-### 🧩 RQ4. Disagreement and Error Analysis
+### 🧩 RQ4.  Examining when and why LLMs and human raters differ in judgments on specific words
 | 주요 결과 | 요약 |
 |------------|-------|
 | **Error patterns** | 주로 다의어·L1 전이 의미 (*develop, clinic, random, fabulous*) 등에서 불일치 발생 |

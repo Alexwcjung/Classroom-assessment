@@ -88,5 +88,6 @@ With advances in **Large Language Models (LLMs)** such as *GPT-4* and *Gemini*, 
 
 ## 💬 Discussion Questions
 1. Should LLMs replace human raters in classroom vocabulary assessment?  
-2. How can teachers ensure fairness for learners with different L1 backgrounds?  
+2. In what contexts is AI-based scoring appropriate — and where should human judgment remain essential?
+
 

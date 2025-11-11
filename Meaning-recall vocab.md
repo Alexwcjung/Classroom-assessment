@@ -77,41 +77,16 @@ With advances in **Large Language Models (LLMs)** such as *GPT-4* and *Gemini*, 
 ## 🌈 Overall Interpretation
 
 * **GPT-4o** and **Gemini 1.5** show **human-equivalent reliability, correlation, and scoring consistency** in meaning-recall vocabulary tests.  
-* **Llama 3-8B**, with fewer parameters, shows a **stricter and more variable scoring pattern.**  
-* Differences mainly stem from **polysemy** and **L1 transfer effects**, not from fundamental model misunderstanding.  
-* Therefore, **LLMs can validly and efficiently replace human raters** in **low-stakes testing or research contexts**, significantly reducing scoring time while maintaining psychometric soundness.
-
----
+* **Llama 3-8B** → parameters 적어 보수적 채점 경향.  
+* **AI scoring patterns ≈ human judgment**, low-stakes 평가 에 활용 가능.  
+* 차이는 주로 **polysemous words** 및 **L1 의미 전이** 상황에서 발생. 
 
 ✅ **Summary**
 > LLMs (especially GPT-4o and Gemini 1.5) can **score meaning-recall vocabulary responses with human-level accuracy, reliability, and agreement**, marking a breakthrough in automated language assessment.
 
 ---
 
-## 🌈 Interpretation (해석)
-* **GPT-4o & Gemini 1.5** → human-like accuracy and consistency.  
-* **Llama 3-8B** → parameters 적어 보수적 채점 경향.  
-* **AI scoring patterns ≈ human judgment**, low-stakes 평가 에 활용 가능.  
-* 차이는 주로 **polysemous words** 및 **L1 의미 전이** 상황에서 발생.  
-
----
-
-## 💬 Discussion & Implications
-* **Fairness 공정성:** 명확한 기준 prompt 설계 시 AI 도 공정성 유지 가능.  
-* **Efficiency 효율성:** 600명 채점 → Human 약 5시간 vs GPT 10분 미만.  
-* **Use cases:** 형성평가, 연습 or 대규모 저위험 시험에 적합.  
-* **Future work:** (1) Human-AI hybrid 모델 보정  (2) 다언어 확장  (3) 반복채점 일관성 검증.  
-
----
-
-## 🧩 Conclusion (결론)
-✅ **GPT-4o and Gemini achieve human-level reliability and accuracy.**  
-⚙️ **AI-based meaning-recall scoring** is feasible for large-scale or low-stakes testing.  
-🚧 High-stakes contexts require hybrid systems and continued validation.  
-
----
-
 ## 💬 Discussion Questions
 1. Should LLMs replace human raters in classroom vocabulary assessment?  
 2. How can teachers ensure fairness for learners with different L1 backgrounds?  
-3. How might AI feedback promote *construct-relevant learning* rather than *test-wiseness*?  
+

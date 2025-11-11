@@ -78,7 +78,7 @@ With advances in **Large Language Models (LLMs)** such as *GPT-4* and *Gemini*, 
 
 * **GPT-4o** and **Gemini 1.5** show **human-equivalent reliability, correlation, and scoring consistency** in meaning-recall vocabulary tests.  
 * **Llama 3-8B** → parameters 적어 보수적 채점 경향.  
-* **AI scoring patterns ≈ human judgment**, low-stakes 평가 에 활용 가능.  
+* **AI scoring patterns ≈ human judgment**, low-stakes 평가에 활용 가능.  
 * 차이는 주로 **polysemous words** 및 **L1 의미 전이** 상황에서 발생. 
 
 ✅ **Summary**

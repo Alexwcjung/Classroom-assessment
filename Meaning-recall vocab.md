@@ -45,10 +45,12 @@ With advances in **Large Language Models (LLMs)** such as *GPT-4* and *Gemini*, 
 ## 📊 Results (결과)
 
 ### 🧩 RQ1. Relative rater severity between humans and LLMs
-| 주요 결과 | 요약 |
-|------------|-------|
+
+| 항목 | 내용 |
+|------|------|
 | **Mean score pattern** | Gemini (75.3) > Human1 (73.8) ≈ GPT (71.5) ≈ Human2 (70.2) > Llama (64.7) |
-| **Interpretation** | GPT-4o와 Gemini는 인간 채점자와 통계적으로 유의한 차이가 없음. <br> → 두 모델 모두 **인간 수준의 평균 점수 및 채점 경향**을 보임. <br> Llama는 **가장 보수적인(엄격한)** 채점 경향을 나타냄. |
+| **Interpretation** | GPT-4o와 Gemini는 인간 채점자와 **유사한 평균 점수 분포**를 보였으며, 전반적으로 **인간 수준의 채점 경향**을 나타냄.<br>Llama는 가장 **보수적(엄격한)** 채점 패턴을 보였으나, 이 차이가 **통계적으로 유의미한지 여부는 보고되지 않음. |
+
 
 
 ### 🧩 RQ2. Examining differences in reliability between human and LLM raters 

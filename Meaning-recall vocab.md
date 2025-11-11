@@ -57,7 +57,7 @@ With advances in **Large Language Models (LLMs)** such as *GPT-4* and *Gemini*, 
 | 주요 결과 | 요약 |
 |------------|-------|
 | **Cronbach’s α** | GPT (.961), Gemini (.960), Human (.962), Llama (.941) |
-| **Interpretation** | GPT와 Gemini의 신뢰도는 **인간 채점자와 동일 수준(.96)** 으로 안정적임. <br> Llama는 상대적으로 낮은 점수를 보여 **모델 크기(7B)의 한계**를 반영함. <br> → **AI 채점이 신뢰도 저하 없이 적용 가능**함을 시사. |
+| **Interpretation** | GPT와 Gemini의 신뢰도는 **인간 채점자와 동일 수준(.96)** 으로 안정적임. <br> Llama는 상대적으로 낮은 점수를 보임. <br> → **AI 채점이 신뢰도 저하 없이 적용 가능**함을 시사. |
 
 
 ### 🧩 RQ3. Correlations between human and LLM raters and Inter-Rater reliability

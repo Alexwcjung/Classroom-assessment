@@ -122,10 +122,7 @@ Focus:
 # 🌳 Overall Implications
 - SDS는 인간 시험관 기반 말하기 평가를 보완하거나 부분 대체 가능  
 - Valid sample 제공 + 높은 표준화  
-- 개선 필요:
-  - multimodal cues (표정·시선·제스처)  
-  - 정확한 인식  
-  - 더 자연스러운 대화 흐름  
+- 개선 필요: multimodal cues (표정·시선·제스처), 정확한 인식, 더 자연스러운 대화 흐름  
 - 교육·평가 분야에서 AI 활용 가능성 증가
 
 ---

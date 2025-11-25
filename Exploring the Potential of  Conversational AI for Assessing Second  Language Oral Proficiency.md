@@ -113,8 +113,8 @@ Learners generally evaluated SDS as **competent and reliable**, but noted a lack
 - **Occasional interruptions**: Sudden topic shifts or unnatural timing.  
 - **Preference for humans**: Learners still favored human interviewers for richer, more natural interaction.
 
-## RQ2Conclusion
-Learners viewed the SDS as efficient and low-stress, but its limited naturalness led many to still prefer human interlocutors.
+### RQ2 Conclusion
+- Learners viewed the SDS as efficient and low-stress, but its limited naturalness led many to still prefer human interlocutors.
 
 ---
 # 🌳 Implications

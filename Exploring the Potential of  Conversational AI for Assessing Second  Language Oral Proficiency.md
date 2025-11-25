@@ -114,11 +114,9 @@ Learners generally evaluated SDS as **competent and reliable**, but noted a lack
 - **Occasional unnatural interruptions** or topic shifts  
 - Perceived **lower authenticity** than human examiners
 
----
 
 ### 🎯 **RQ2 Conclusion**
-- Learners saw SDS as helpful and competent,  
-- but interaction felt less natural and less rich than human–human interviews.
+- Learners saw SDS as helpful and competent, but interaction felt less natural and less rich than human–human interviews.
 
 ---
 

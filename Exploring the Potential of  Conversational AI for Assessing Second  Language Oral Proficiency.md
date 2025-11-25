@@ -30,7 +30,15 @@ Focus:
 
 ## Interactional Competence (IC)
 - Ability to manage **dynamic, co-constructed communication(대화를 함께 만들어가는 능력)**
-- Includes turn-taking, clarification, topic development, alignment, etc.
+- IC include such as
+  - management of turn-taking
+  - repair of mishearings, misunderstandings, and unintended overlaps;
+  - openings and closings of conversations;
+  - management of possible misalignment by means of politeness;
+  - design of speech to address the recipient’s social status and shared background knowledge;
+  - backchannelling, using both verbal (“right,” “yeah,” “wow,” “that’s great”) and/or nonverbal expressions (eye contact, facial expressions, head movements), to indicate active recipiency of information;
+  - topic management;
+  - displaying behaviours in accordance with one’s social role (Roever & Ikeda, 2022, p. 8).
 → 실제 대화에 필수적이지만 시험에서는 종종 측정되지 않음
 
 ## Limits of Current Speaking Tests

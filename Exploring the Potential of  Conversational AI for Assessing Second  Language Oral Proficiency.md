@@ -108,7 +108,7 @@ Learners generally evaluated SDS as **competent and reliable**, but noted a lack
 - **Less anxiety** (기계 interlocutor → 심리적 부담 ↓)  
 - **Standardized behavior**, seen as fair and predictable  
 - **Clear voice & steady pacing**
-- 
+
 ### **Negative Perceptions**
 - **No nonverbal cues** (eye contact, nods, facial expressions)  
 - **Occasional unnatural interruptions** or topic shifts  

@@ -92,8 +92,6 @@ SDS successfully elicited **core IC features**, and these behaviors helped **dis
   - *“Another important point is…”*
 
 ### RQ1 Conclusion
-- SDS elicited **turn-taking, clarification/repair, and topic management**, which are central to IC.  
-- These IC behaviors **varied by proficiency level**, making them useful for assessment.  
 - SDS-generated interactions formed **valid, assessable samples**.
 
 ---

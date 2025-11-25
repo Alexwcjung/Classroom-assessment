@@ -81,84 +81,71 @@ Focus:
   - 기존 Interactional Competence 연구 기반  
   - 복잡한 대화 기능을 세부적으로 나눠 분석
 
-> 요약하면, 방법론은 “AI와 사람이 실제 어떻게 대화했는지”를  
-> **정성적(대화 분석) + 정량적(점수·신뢰도) 방식으로 동시에 검증한 mixed-methods 연구**이다.  
-> 덕분에 단순한 점수나 사용 후기만이 아니라 **실제 상호작용의 질 자체**를 분석할 수 있음.
+> "AI와 사람이 실제 어떻게 대화했는지”를  **정성적(대화 분석) + 정량적(점수·신뢰도) 방식으로 동시에 검증한 mixed-methods 연구**임.  
 
 ---
 
-# 🌳 Results: Major Findings
+# 🌳 Results & Discussion (Reorganized by Research Question)
 
-## 1. SDS successfully elicited IC features  
-- 학습자 발화에서 다음 IC 기능들이 잘 나타남:
-  - turn-taking  
-  - topic extension  
-  - clarification  
-  - alignment  
-- 이 IC 기능들은 학습자 숙련도를 구분하는 데 유의미했다  
-→ 즉, SDS는 **상호작용 기반 말하기 능력 elicitation에 성공**
+## RQ1 — Can SDS elicit Interactional Competence (IC)?
+### ✔ Findings  
+- SDS와의 대화에서 학습자들은 turn-taking, topic development, clarification, alignment 등 핵심 IC 요소를 안정적으로 사용함.  
+- 이러한 IC 요소들은 숙련도 차이를 잘 드러냄.  
+→ **SDS는 상호작용 기반 말하기 능력 elicitation에 성공.**
 
-## 2. Human raters scored reliably  
-- 평가자 간 일치도(inter-rater reliability) 높음  
-→ SDS-mediated performances = **평가 가능(valid scoring sample)**
-
-## 3. Participant Perceptions  
-대부분 긍정적이었으나 단점도 명확함.
-
-### 👍 Strengths
-- 응답 속도 빠름  
-- 발음 명확  
-- 질문의 난이도와 구조 적절  
-- 부담감이 적다고 느낌
-
-### 👎 Limitations
-- Nonverbal cues(표정·시선·제스처) 부재  
-- 때때로 응시자 발화를 오해하거나 중간에 끊음  
-- 인간만큼 자연스러운 리듬·호흡은 아님  
-→ authenticity 측면에서 한계 존재
-
-## 4. SDS behavior consistency  
-- 대체로 일관된 exam interaction pattern  
-- 다만 occasional:
-  - premature responses  
-  - misunderstanding learner utterances
+### ✔ Interpretation  
+- IC를 평가하려면 자연스러운 상호작용이 필요함.  
+- SDS는 monologic test보다 훨씬 풍부한 상호작용 데이터를 제공함.
 
 ---
 
-# 🌳 Discussion & Implications
+## RQ2 — How authentic/natural is SDS interaction compared to a human examiner?
+### ✔ Findings  
+- 응답 속도 및 질문 구조는 적절했으나, nonverbal cues(표정·시선·제스처) 부재로 대화의 풍부함이 부족. 간혹 발화 오해나 대화 중간 끊김 발생.  
+→ **표준화는 뛰어나지만, 완전한 자연스러움은 부족.**
 
-## RQ1 — IC elicitation  
-✔ SDS는 필수적인 IC 특징을 충분히 이끌어냄.
+### ✔ Interpretation  
+- 인간 시험관에 비해 대화의 깊이가 떨어짐.
 
-## RQ2 — Authenticity vs Standardization  
-- SDS = 높은 표준화  
-- 비언어적 요소가 없어 **대화의 풍부함은 제한됨**
+---
 
-## RQ3 — Rating reliability  
-✔ 인간 평가자 점수 일관성 높음 → SDS는 valid speaking sample을 생성할 수 있음.
+## RQ3 — Are the SDS-mediated performances reliably ratable?
+### ✔ Findings  
+- 두 평가자의 점수가 거의 동일 → inter-rater reliability 높음 → **AI–학습자 대화 녹음은 ‘평가 가능한(valid) 말하기 샘플’임을 입증.**
 
-## RQ4 — Test taker perceptions  
-- 대체로 긍정적  
-- 하지만 사람과의 대화만큼 “자연스러운 흐름”은 부족하다고 지적
+### ✔ Interpretation  
+- SDS가 시험관 역할을 했지만, 그 결과물(녹음된 말하기 수행)은 사람 평가자가 안정적으로 평가 가능함.  
+- 즉, **SDS는 speaking assessment 환경을 충분히 구성할 수 있음.**
 
-## Overall Implications  
-- SDS는 인간 시험관 기반 말하기 평가를 **보완하거나 부분 대체**할 가능성  
-- 타당도 향상을 위해 필요한 개선점:
-  - multimodal cues 제공(아바타 제안)  
-  - real-time adaptation 향상  
-  - misrecognition 줄이기  
-  - 대화의 유연성 강화
+---
 
-→ 교육·평가에서 AI 기반 말하기 평가의 활용 가능성을 크게 보여줌.
+## RQ4 — How do test takers perceive SDS interaction?
+### ✔ Findings  
+- 장점: 빠른 응답, 발음 명확, 긴장 덜함  
+- 단점: 자연스러운 흐름 부족, 종종 오해 발생  
+→ 전반적으로 긍정적이지만 인간 대화만큼은 아님.
+
+### ✔ Interpretation  
+- 기술적·감정적 자연성은 향후 개발 과제.  
+- 그래도 응시자 경험은 대부분 “불편함 없음”에 가까움.
+
+---
+
+# 🌳 Overall Implications
+- SDS는 인간 기반 말하기 평가를 **보완하거나 부분 대체할 잠재력**을 보여줌.  
+- 향후 개선점:
+  - multimodal cues (눈맞춤·표정·제스처)  
+  - 더 정확한 인식 및 반응  
+  - 유연한 대화 흐름 생성  
+- 교육·평가 환경에서 AI 활용 가능성이 크게 확장될 전망.
+
+
 
 ---
 
 # 🌳 Teacher / Practitioner Discussion Questions
 
-1. AI SDS가 인간 시험관을 완전히 대체할 수 있을까?  
-2. speaking 평가에서 비언어적 요소(표정·시선·제스처)는 얼마나 중요한가?  
-3. 우리는 **표준화된 시험**을 우선해야 하는가, 아니면 **실제 대화의 자연성**을 우선해야 하는가?  
-4. SDS 기반 평가가 교실 수업에 어떤 washback(긍정/부정)을 줄까?  
-5. 더 나은 IC 평가를 위해 SDS는 어떤 기능을 강화해야 할까?
+1. AI SDS가 인간 시험관을 완전히 대체할 수 있을까?
+2. Speaking 평가에서 표정·시선·제스처 같은 비언어적 요소를 그렇게 중요한가? 반드시 IC평가의 핵심요소로 보아야 하나?
 
 

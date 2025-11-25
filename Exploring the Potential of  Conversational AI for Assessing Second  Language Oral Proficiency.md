@@ -52,14 +52,12 @@ Key components include:
 ## Procedure
 1. **SDS가 IELTS Speaking 시험관(examiner) 역할을 수행**  
    - 학습자는 사람 대신 AI와 face-to-face 처럼 대화. AI가 질문하고, 이어서 자연스럽게 follow-up 질문을 던지는 구조   
-2. Learners interacted with SDS in real time 
+2. Learners engage in real-time interaction with SDS.  
 3. 모든 대화는 녹음 및 전사(transcription)됨  
 4. 인간 평가자가 녹음본을 듣고 채점  
-5. 연구진은 다음을 분석:
-   - IC(feature) 발생 빈도
-   - SDS가 인간처럼 반응하는지 여부  
-   - 대화 흐름의 자연성  
-   - 응시자의 체감 경험(perception)
+5. Researchers analyze:
+   - IC features and frequency  
+   - Learner perceptions (authenticity, comfort, difficulty)  
 
 ## Data Sources  
 

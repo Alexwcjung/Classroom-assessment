@@ -1,5 +1,4 @@
 # **Exploring the Potential of  Conversational AI for Assessing Second  Language Oral Proficiency**  
-*Karatay & Xu (2025), TESOL Quarterly*
 
 ---
 

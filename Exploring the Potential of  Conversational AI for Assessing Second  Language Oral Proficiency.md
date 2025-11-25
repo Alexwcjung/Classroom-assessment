@@ -127,7 +127,7 @@ Learners generally evaluated SDS as **competent and reliable**, but noted a lack
 
 ---
 
-# 🌳 Teacher / Practitioner Discussion Questions
+# 🌳 Teacher Discussion Questions
 
 1. SDS를 활용한 교실 말하기 활동은 어떤 것이 있을까?
 2. AI SDS가 인간 시험관을 완전히 대체할 수 있을까?

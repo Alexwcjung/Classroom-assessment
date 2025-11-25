@@ -69,16 +69,27 @@ Key components include:
 
 ---
 
-# 🌳 Results (Organized by RQ)
+# 🌳 Results
 
 ## **RQ1 — IC features elicited by SDS**
 ### ✔ Findings
 - SDS successfully elicited core IC behaviors:
-  - turn-taking  
-  - clarification and repair  
-  - backchannels  
-  - topic management  
-- IC features differed across proficiency levels.  
+- 
+### **1) Turn-taking**
+- All learners engaged in **normal, reciprocal turn-taking** with SDS.  
+- Higher-proficiency speakers often produced **longer turns (약 20–30% 더 길게)** or brief expansions.  
+  - *“I think one challenge… and another thing is…”*
+
+### **2) Clarification & Repair**
+- Learners used clarification requests:
+  - *“Sorry, could you repeat that?”*  
+- Higher-level learners showed more natural **self-repair**:
+  - *“I think… I mean, the main reason is…”*
+
+### **3) Topic Management**
+- Learners maintained SDS-initiated topics effectively.  
+- Advanced learners expanded topics:
+  - *“Another important point is…”*
 
 **→ SDS can generate interactive, assessable samples that reflect learners’ IC.**
 

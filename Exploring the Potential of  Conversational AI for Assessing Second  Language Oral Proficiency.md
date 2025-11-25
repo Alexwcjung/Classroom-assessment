@@ -129,7 +129,7 @@ Learners generally evaluated SDS as **competent and reliable**, but noted a lack
 
 # 🌳 Teacher / Practitioner Discussion Questions
 
-1. AI SDS가 인간 시험관을 완전히 대체할 수 있을까?
-2. Speaking 평가에서 표정·시선·제스처 같은 비언어적 요소를 그렇게 중요한가?
-   - 이를 반드시 IC평가의 핵심요소로 보아야 하나?
+1. SDS를 활용한 교실 말하기 활동은 어떤 것이 있을까?
+2. AI SDS가 인간 시험관을 완전히 대체할 수 있을까?
+
 

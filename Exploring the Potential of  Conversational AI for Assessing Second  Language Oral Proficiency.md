@@ -1,4 +1,4 @@
-# **Exploring the Potential of Conversational AI (Spoken Dialogue Systems) for Assessing L2 Oral Proficiency**  
+# **Exploring the Potential of  Conversational AI for Assessing Second  Language Oral Proficiency**  
 *Karatay & Xu (2025), TESOL Quarterly*
 
 ---

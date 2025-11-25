@@ -91,7 +91,7 @@ SDS successfully elicited **core IC features**, and these behaviors helped **dis
 - Advanced learners expanded topics:
   - *“Another important point is…”*
 
-### 🎯 **RQ1 Conclusion**
+### RQ1 Conclusion
 - SDS elicited **turn-taking, clarification/repair, and topic management**, which are central to IC.  
 - These IC behaviors **varied by proficiency level**, making them useful for assessment.  
 - SDS-generated interactions formed **valid, assessable samples**.
@@ -103,20 +103,18 @@ SDS successfully elicited **core IC features**, and these behaviors helped **dis
 ### ✔ Summary
 Learners generally evaluated SDS as **competent and reliable**, but noted a lack of **human-like naturalness**.
 
+### Positive Perceptions
+- **Competent and consistent**: SDS asked clear, predictable questions.  
+- **Reduced anxiety**: Learners felt less pressure than with human examiners.  
+- **Enjoyment**: Some learners found the AI interaction fun and comfortable.
 
-### **Positive Perceptions**
-- **Less anxiety** (기계 interlocutor → 심리적 부담 ↓)  
-- **Standardized behavior**, seen as fair and predictable  
-- **Clear voice & steady pacing**
+### Negative Perceptions
+- **Lack of naturalness**: No nonverbal cues such as eye contact or facial expressions.  
+- **Occasional interruptions**: Sudden topic shifts or unnatural timing.  
+- **Preference for humans**: Learners still favored human interviewers for richer, more natural interaction.
 
-### **Negative Perceptions**
-- **No nonverbal cues** (eye contact, nods, facial expressions)  
-- **Occasional unnatural interruptions** or topic shifts  
-- Perceived **lower authenticity** than human examiners
-
-
-### 🎯 **RQ2 Conclusion**
-- Learners saw SDS as helpful and competent, but interaction felt less natural and less rich than human–human interviews.
+## RQ2Conclusion
+Learners viewed the SDS as efficient and low-stress, but its limited naturalness led many to still prefer human interlocutors.
 
 ---
 # 🌳 Implications

@@ -30,7 +30,7 @@ Focus:
 
 ## Interactional Competence (IC)
 - Ability to manage **dynamic, co-constructed communication(대화를 함께 만들어가는 능력)**
-- IC include such as
+- IC includes such as
   - management of turn-taking
   - repair of mishearings, misunderstandings, and unintended overlaps;
   - openings and closings of conversations;

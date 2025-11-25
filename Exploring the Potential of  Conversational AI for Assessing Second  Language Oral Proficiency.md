@@ -13,10 +13,10 @@ Focus:
   3) support reliable and valid L2 speaking assessment.
 
 ## Research Need
+- Interactional competence (IC) is essential to oral proficiency, yet many large-scale, high-stakes computer-based English tests fail to assess it.
 - Existing computer-based speaking tests (TOEFL, Versant, Duolingo) → **IC(대화용 상호작용) 평가 불가**  
-- Human examiners → costly, inconsistent, interlocutor effects(시험관 편차) 
+- Human-mediated oral interviews → costly, inconsistent, interlocutor idiosyncrasies(시험관 편차) 
 - SDS는 **표준화 + 상호작용성**을 동시에 제공할 잠재력 보유
-- IC는 실제 말하기 능력에서 핵심이나 시험에서 과소대표되는 경향
 
 ## Research Questions
 - **RQ1:** Can the SDS elicit key IC features from L2 speakers?  

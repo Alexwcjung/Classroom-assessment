@@ -29,7 +29,7 @@ Focus:
 # 🌳 Background & Key Concepts
 
 ## Interactional Competence (IC)
-- Ability to manage **dynamic, co-constructed communication**
+- Ability to manage **dynamic, co-constructed communication(대화를 함께 만들어가는 능력)**
 - Includes turn-taking, clarification, topic development, alignment, etc.
 → 실제 대화에 필수적이지만 시험에서는 종종 측정되지 않음
 

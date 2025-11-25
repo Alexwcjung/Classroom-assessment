@@ -72,9 +72,9 @@ Key components include:
 # 🌳 Results
 
 ## **RQ1 — IC features elicited by SDS**
-### ✔ Findings
-- SDS successfully elicited core IC behaviors:
-- 
+### ✔ Summary
+SDS successfully elicited **core IC features**, and these behaviors helped **distinguish proficiency levels**.  
+
 ### **1) Turn-taking**
 - All learners engaged in **normal, reciprocal turn-taking** with SDS.  
 - Higher-proficiency speakers often produced **longer turns (약 20–30% 더 길게)** or brief expansions.  
@@ -91,16 +91,34 @@ Key components include:
 - Advanced learners expanded topics:
   - *“Another important point is…”*
 
-**→ SDS can generate interactive, assessable samples that reflect learners’ IC.**
+### 🎯 **RQ1 Conclusion**
+- SDS elicited **turn-taking, clarification/repair, and topic management**, which are central to IC.  
+- These IC behaviors **varied by proficiency level**, making them useful for assessment.  
+- SDS-generated interactions formed **valid, assessable samples**.
 
 ---
 
-## **RQ2 — Test-taker perceptions**
-### ✔ Findings
-- **Positive:** less anxiety, clearer prompts, comfortable pace  
-- **Negative:** less natural than human interaction, no nonverbal cues, occasional misunderstandings  
+## **RQ2 — Test-Taker Perceptions of SDS**
 
-**→ Overall moderately positive, though not fully human-like.**
+### ✔ Summary
+Learners generally evaluated SDS as **competent and reliable**, but noted a lack of **human-like naturalness**.
+
+
+### **Positive Perceptions**
+- **Less anxiety** (기계 interlocutor → 심리적 부담 ↓)  
+- **Standardized behavior**, seen as fair and predictable  
+- **Clear voice & steady pacing**
+- 
+### **Negative Perceptions**
+- **No nonverbal cues** (eye contact, nods, facial expressions)  
+- **Occasional unnatural interruptions** or topic shifts  
+- Perceived **lower authenticity** than human examiners
+
+---
+
+### 🎯 **RQ2 Conclusion**
+- Learners saw SDS as helpful and competent,  
+- but interaction felt less natural and less rich than human–human interviews.
 
 ---
 

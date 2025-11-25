@@ -16,7 +16,7 @@ This study examines whether a conversational AI–based Spoken Dialogue System (
 - Human examiner interviews are **costly**, **inconsistent**, and affected by **interlocutor idiosyncrasies**.  
 - SDS has potential to combine **standardization + interactiveness**.
 
-# 🌳 Research Questions (Official RQs in the Paper)
+## **Research Questions (Official RQs in the Paper)**
 
 **RQ1:** *What types of interactive language functions are elicited by the SDS, and how frequently do these functions appear in test-taker responses?*
 

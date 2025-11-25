@@ -115,12 +115,12 @@ Focus:
 → 전반적으로 **긍정적이지만 인간과 동일 수준은 아님**
 
 ### ✔ Interpretation
-- 향후 improvement 필요: multimodal cues, smoother turn-taking 등
+- 향후 improvement 필요: multimodal cues(표정·시선·제스처), smoother turn-taking 등
 
 ---
 
 # 🌳 Overall Implications
-- SDS는 인간 시험관 기반 말하기 평가를 **보완하거나 부분 대체** 가능  
+- SDS는 인간 시험관 기반 말하기 평가를 보완하거나 부분 대체 가능  
 - Valid sample 제공 + 높은 표준화  
 - 개선 필요:
   - multimodal cues (표정·시선·제스처)  

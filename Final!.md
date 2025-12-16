@@ -38,13 +38,8 @@
 ### 2.1 사전 말하기 검사
 
 - 사전 검사는 **TOEIC Speaking 형식**을 참고하여 구성된 말하기 시험으로 실시함
-- 사용 문항 유형:
-  - Part 2: 사진 묘사
-  - Part 3: 질문에 답하기
-  - Part 4: 듣고 요약하기
-  - Part 5: 의견 말하기
 - 모든 응답은 개별적으로 녹음함
--
+
 
 ### 2.2 집단 동질성 검증
 
@@ -59,9 +54,8 @@
 - 두 집단은 동일한 수업 시간, 말하기 과제 유형, AI 도구, 사전·사후 평가 방식을 사용함
 - 차이점은 **교수·학습 설계 방식(PPP vs TBLT)**에 한정됨
 
----
 
-## 4. 말하기 과제 유형 (TOEIC Speaking 기반)
+## 4. 말하기 과제 유형
 
 ### 4.1 Part 2: 사진 묘사 (Describe a Picture)
 
@@ -89,14 +83,13 @@
 - 예시 문항:
   - *Do you think part-time jobs are helpful for high school students? Why or why not?*
 
----
 
 ## 5. 집단별 수업 설계
 
 ### 5.1 AI-PPP 집단 (Input-First)
 
 1. **Presentation**
-   - 교사가 TOEIC Speaking 수준에 맞는 모범 문장 제시
+   - 생성형 AI가 TOEIC Speaking 수준에 맞는 모범 문장 제시
    - 예시:
      - *I think part-time jobs are helpful because students can gain real work experience.*
 2. **Practice**
@@ -104,7 +97,6 @@
 3. **Production**
    - 새로운 말하기 과제에 대해 AI와 자유 발화 수행
 
----
 
 ### 5.2 AI-TBLT 집단 (Output-First)
 
@@ -115,8 +107,6 @@
      **PPP 집단에서 제시된 것과 동일한 난이도의 문장 2–3개 제공**
 3. **Re-task**
    - 동일 과제 재수행
-
----
 
 ## 6. AI 프롬프트 통제 방식
 
@@ -130,35 +120,24 @@
 - *Do not introduce advanced grammar or vocabulary.*
 - *Keep responses concise and suitable for high school learners.*
 
----
 
 ## 7. 말하기 자료 수집 및 전사
 
-- **수업 중 말하기 활동**: 학습 목적 (분석 제외)
+- **수업 중 말하기 활동**: 학습 목적
 - **사전·사후 말하기 시험**:
   - 모든 응답을 개별적으로 녹음
   - 음성 파일을 **전사(transcription)**하여 분석
 - 전사는 연구자가 직접 수행함
-- 발화 단위 기준: **AS-unit**
-
----
 
 ## 8. CAF 분석 및 통계 처리
 
 ### 8.1 CAF 분석 지표
 
-- **Complexity**
-  - 평균 발화 길이 (Mean Length of Utterance)
-  - 어휘 다양도
+- Complexity: 평균 발화 길이, 어휘 다양도
+- Accuracy: 오류 없는 절 비율
+- Fluency: 분당 발화 수, 멈춤 빈도(silent pause 기준)
 
-- **Accuracy**
-  - 오류 없는 절 비율
-
-- **Fluency**
-  - 분당 발화 수
-  - 멈춤 빈도
-
-> CAF 분석 기준은 선행연구를 따름  
+> CAF 분석은 선행연구 기준을 따름  
 > (Skehan, 1998; Ellis & Barkhuizen, 2005)
 
 ---
@@ -167,5 +146,4 @@
 
 - 사전–사후 비교: **대응표본 t-검정**
 - 집단 간 효과 비교: **이원분산분석(Two-way ANOVA)**
-- 효과크기: **η²** 보고
 

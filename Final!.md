@@ -142,8 +142,7 @@
 - Accuracy: 오류 없는 절 비율
 - Fluency: 분당 발화 수, 멈춤 빈도(silent pause 기준)
 
-> CAF 분석은 선행연구 기준을 따름  
-> (Skehan, 1998; Ellis & Barkhuizen, 2005)
+> CAF 분석은 선행연구 기준을 따름 (Skehan, 1998; Ellis & Barkhuizen, 2005)
 
 
 ### 8.2 통계 분석

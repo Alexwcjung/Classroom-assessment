@@ -33,6 +33,8 @@
 - 모든 참여자는 동일 학교, 동일 학년, 동일 교사의 수업을 이수함
 - 기존 영어 성취도 및 학습 배경이 유사한 집단으로 구성됨
 
+-----
+
 ## 2. 사전 검사 및 집단 동질성 검증
 
 ### 2.1 사전 말하기 검사
@@ -47,6 +49,8 @@
 - 말하기 수행은 CAF(Complexity, Accuracy, Fluency) 기준에 따라 분석하였고, CAF 종합 점수를 사용하여 두 집단 간 차이를 비교함
 - 집단 간 사전 말하기 수준의 차이를 검증하기 위해 독립표본 t-검정을 실시함
 
+-----
+
 ## 3. 수업 처치 개요
 
 - 수업 기간: **12주 (주 2회, 총 24차시)**
@@ -54,7 +58,7 @@
 - 두 집단은 동일한 수업 시간, 말하기 과제 유형, AI 도구, 사전·사후 평가 방식을 사용함
 - 차이점은 **교수·학습 설계 방식(PPP vs TBLT)**에 한정됨
 
-
+-----
 ## 4. 말하기 과제 유형
 
 ### 4.1 Part 2: 사진 묘사 (Describe a Picture)
@@ -83,7 +87,7 @@
 - 예시 문항:
   - *Do you think part-time jobs are helpful for high school students? Why or why not?*
 
-
+----
 ## 5. 집단별 수업 설계
 
 ### 5.1 AI-PPP 집단 (Input-First)
@@ -108,6 +112,7 @@
 3. **Re-task**
    - 동일 과제 재수행
 
+----
 ## 6. AI 프롬프트 통제 방식
 
 - 두 집단 모두 동일한 AI 시스템 사용
@@ -120,7 +125,7 @@
 - *Do not introduce advanced grammar or vocabulary.*
 - *Keep responses concise and suitable for high school learners.*
 
-
+-----
 ## 7. 말하기 자료 수집 및 전사
 
 - **수업 중 말하기 활동**: 학습 목적
@@ -129,6 +134,7 @@
   - 음성 파일을 **전사(transcription)**하여 분석
 - 전사는 연구자가 직접 수행함
 
+----
 ## 8. CAF 분석 및 통계 처리
 
 ### 8.1 CAF 분석 지표
@@ -140,10 +146,10 @@
 > CAF 분석은 선행연구 기준을 따름  
 > (Skehan, 1998; Ellis & Barkhuizen, 2005)
 
----
 
 ### 8.2 통계 분석
 
 - 사전–사후 비교: **대응표본 t-검정**
 - 집단 간 효과 비교: **이원분산분석(Two-way ANOVA)**
 
+--

@@ -1,7 +1,6 @@
 # 📘 연구 개요
 
-## 🎓 연구 제목
-**생성형 AI 기반 말하기 수업에서 PPP와 TBLT 설계가 특성화고 학생의 말하기 성과와 학습 동기에 미치는 영향**  
+## 🎓 **생성형 AI 기반 말하기 수업에서 PPP와 TBLT 설계가 특성화고 학생의 말하기 성과와 학습 동기에 미치는 영향**  
 *A Comparative Study of Input-First and Output-First Designs in Generative AI–Mediated Speaking Instruction for Vocational High School Students*
 
 ---

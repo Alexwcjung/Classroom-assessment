@@ -118,7 +118,7 @@
 - 두 집단 모두 동일한 AI 시스템 사용
 - AI 응답은 사전 설계된 프롬프트를 통해 통제함
 
-#### 프롬프트 예시:
+> #### 프롬프트 예시:
   - *You are an English speaking tutor.*
   - *Provide only 2–3 model sentences that are similar in level and structure to the sentences taught by the teacher in class.*
   - *The sentences should be appropriate for TOEIC Speaking tasks.*

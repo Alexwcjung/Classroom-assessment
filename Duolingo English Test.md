@@ -12,7 +12,7 @@
   2. The influence of **shared first language (L1)** between speaker and listener  
   3. The impact of **task type** on performance  
 
-### 🎯 Research Questions
+> ### 🎯 Research Questions
 1. To what extent does listening to *shared vs. different English accents* affect test-takers’ DET listening performance?  
 2. How do *different English accents* influence performance across the two DET task types (*yes/no vocabulary* and *dictation*)?  
 
@@ -67,7 +67,7 @@
 
 ---
 
-### 🌈 종합 해석
+### 🌈 Overall Interpretation
 - Shared-L1 억양은 분명한 이점을 보였지만, Inner-circle 억양과 유의한 차이는 없음.  즉, **명료도(intelligibility)** 가 확보된다면 **원어민 여부와 관계없이** 듣기 평가의 타당성이 유지될 수 있음. 다만 **억양 친숙도(familiarity)** 는 여전히 이해도에 영향을 미치는 변수로 남음.  
 - 따라서 국제 영어 평가는 명료도 기준을 엄격히 적용한다면 다양한 억양을 포용함으로써 시험의 공정성(fairness)을 높이는 방향으로 발전할 수 있음.  
 

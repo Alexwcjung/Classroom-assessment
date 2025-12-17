@@ -1,4 +1,4 @@
-# ** Fairness of Using Different English Accents: The Effect of Shared L1s in Listening Tasks of the Duolingo English Test by Kang et al. (2024) **  
+# Fairness of Using Different English Accents: The Effect of Shared L1s in Listening Tasks of the Duolingo English Test by Kang et al. (2024)  
 
 ---
 
